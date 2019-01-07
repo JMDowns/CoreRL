@@ -1,0 +1,2 @@
+def move_camera(camera_width, camera_height, dx, dy):
+    
