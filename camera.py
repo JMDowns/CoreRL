@@ -10,7 +10,7 @@ class Camera:
         if (self.x + dx < 0 or
             self.x + self.width + dx > game_map.width or
             self.y + dy < 0 or
-            self.y + self.height > game_map.height):
+            self.y + self.height + dy > game_map.height):
             return True
 
         return False

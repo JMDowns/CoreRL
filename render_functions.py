@@ -1,15 +1,18 @@
 import libtcodpy as libtcod
 
 
-def render_all(con, entities, camera, game_map, screen_width, screen_height, colors):
+def render_all(con, entities, camera, game_map, screen_width, screen_height, colors, logger):
     # Draw all tiles in game map
     for y in range(camera.height):
         for x in range(camera.width):
             cam_x = camera.x + x
             cam_y = camera.y + y
-            wall = game_map.tiles[cam_x][cam_y].block_sight
-            entity = game_map.objects[cam_x][cam_y]
-
+            try:
+                wall = game_map.tiles[cam_x][cam_y].block_sight
+                entity = game_map.objects[cam_x][cam_y]
+            except IndexError:
+                logger.error('Rendering out of map range')
+            
             if wall:
                 libtcod.console_set_char_background(con, x, y, colors.get('dark_wall'), libtcod.BKGND_SET)
             else:
@@ -22,7 +25,7 @@ def render_all(con, entities, camera, game_map, screen_width, screen_height, col
     #        draw_entity(con, entity)
     libtcod.console_blit(con, 0, 0, camera.width, camera.height, 0, 0, 0)
 
-def clear_all(con, objects, camera):
+def clear_all(con, objects, camera, logger):
     for y in range(camera.height):
         for x in range(camera.width):
             cam_x = camera.x + x
