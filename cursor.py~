@@ -1,0 +1,4 @@
+class Cursor():
+    def __init__(self, entity):
+        self.ent = entity
+        
