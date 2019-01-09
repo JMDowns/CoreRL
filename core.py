@@ -4,7 +4,7 @@ import logging
 from camera import Camera
 from cursor import Cursor
 from entity import Entity
-from input_handlers import handle_keys
+from input_handlers import handle_keys, handle_build_keys
 from map_objects.game_map import GameMap
 from render_functions import clear_all, render_all
 
@@ -34,12 +34,26 @@ def main():
 
     colors = {
         'dark_wall': libtcod.Color(0,0,100),
-        'dark_ground': libtcod.Color(50,50,150)
+        'dark_ground': libtcod.Color(50,50,150),
+        'bad_selected_wall': libtcod.Color(100, 0, 0),
+        'bad_selected_floor': libtcod.Color(150, 50, 50),
+        'good_selected_wall': libtcod.Color(0, 100, 0),
+        'good_selected_floor': libtcod.Color(50, 150, 50)
     }
+
+    modes = {
+        'none': 0,
+        'build': 1
+    }
+
+    active_mode = modes.get('none')
 
     camera = Camera(0, 0, camera_width, camera_height)
 
-    cursor =  Cursor(Entity(int(screen_width / 2), int(screen_height / 2), '+', libtcod.white, camera))
+    cursor =  Cursor(Entity(int(screen_width / 2), int(screen_height / 2), ' ', libtcod.white, camera))
+    has_selected = False
+    selected_x = 0
+    selected_y = 0
 
     null_entity = Entity(0, 0, ' ', libtcod.red, camera, True)
     
@@ -61,7 +75,7 @@ def main():
 
     con = libtcod.console_new(screen_width, screen_height)
 
-    game_map = GameMap(map_width, map_height, empty_objects, entities, null_entity)
+    game_map = GameMap(map_width, map_height, empty_objects, entities, null_entity, logger)
     game_map.make_map()
     
     key = libtcod.Key()
@@ -75,39 +89,71 @@ def main():
         
         libtcod.sys_check_for_event(libtcod.EVENT_KEY_PRESS, key, mouse)
         
-        render_all(con, cursor, entities, camera, game_map, screen_width, screen_height, colors, logger)
+        render_all(con, cursor, entities, camera, game_map, screen_width, screen_height, colors, active_mode, logger)
         
         libtcod.console_flush()
 
         clear_all(con, cursor, game_map, camera, logger)
 
-        action = handle_keys(key)
-
+        if active_mode == modes.get('none'):
+            action = handle_keys(key)
+        if active_mode == modes.get('build'):
+            action = handle_build_keys(key)
+        #base actions (when active_mode is 'none')
+        build_mode = action.get('build_mode')
         camera_move = action.get('camera_move')
-        cursor_move = action.get('cursor_move')
         exit = action.get('exit')
         fullscreen = action.get('fullscreen')
-        build = action.get('build')
 
+        #actions in build mode, but not in base (active_mode = 'build')
+        cursor_move = action.get('cursor_move')
+        exit_mode = action.get('exit_mode')
+        select = action.get('select')
+        
         if camera_move:
-            dx, dy = camera_move
-            if not camera.is_on_edge(game_map, dx, dy):
+           dx, dy = camera_move
+           if not camera.is_on_edge(game_map, dx, dy):
                 camera.move(dx, dy)
                 cursor.entity.move_with_camera(dx, dy)
-                
+
         if cursor_move:
             dx, dy = cursor_move
             if not game_map.is_cursor_blocked(cursor.entity.x+dx, cursor.entity.y+dy, camera):
-                logger.debug('moved cursor {} x, {} y units'.format(dx, dy))
-                logger.debug('cursor x={}, y={}'.format(cursor.entity.x, cursor.entity.y))
                 cursor.entity.move(dx, dy)
-                logger.debug('after moving, cursor x={}, y={}'.format(cursor.entity.x, cursor.entity.y))
+                logger.debug('has_selected = {}, active_mode = {}'.format(has_selected, active_mode))
+                if has_selected and active_mode == modes.get('build'):
+                    game_map.deselect_all()
+                    game_map.select_rectangle(selected_x, selected_y, cursor.entity.x, cursor.entity.y)
+                    logger.debug('called select rectangle')
+                logger.debug('cursor x={}, y={}'.format(cursor.entity.x, cursor.entity.y))
             else:
                 logger.debug('cursor x={}, y={}'.format(cursor.entity.x, cursor.entity.y))
                 logger.debug('cursor cam_x={}, cam_y={}'.format(cursor.entity.cam_x, cursor.entity.cam_y))
 
-        if build:
-            print("build mode")
+        if build_mode:
+            active_mode = modes.get('build')
+            logger.debug('changed to build mode')
+            cursor.appear()
+
+        if select:
+            if active_mode == modes.get('build'):
+                if has_selected == False:
+                    logger.debug('selected an object in build mode')
+                    selected_x = cursor.entity.x
+                    selected_y = cursor.entity.y
+                    has_selected = True
+                else:
+                    logger.debug('stopped selecting an object in build mode')
+                    selected_x = 0
+                    selected_y = 0
+                    has_selected = False
+                    game_map.deselect_all()
+
+        if exit_mode:
+            active_mode = modes.get('none')
+            game_map.deselect_all()
+            logger.debug('switched out of mode')
+            cursor.disappear()
             
         if exit:
             return True

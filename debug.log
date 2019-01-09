@@ -7887,3 +7887,3341 @@
 2019-01-08 20:39:13,444:DEBUG:cursor cam_x=0, cam_y=0
 2019-01-08 20:39:36,911:DEBUG:Initialized starting game variables
 2019-01-08 20:39:36,911:DEBUG:Starting game loop
+2019-01-08 20:41:43,357:DEBUG:Initialized starting game variables
+2019-01-08 20:41:43,357:DEBUG:Starting game loop
+2019-01-08 20:41:45,857:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:45,857:DEBUG:cursor x=81, y=25
+2019-01-08 20:41:45,857:DEBUG:after moving, cursor x=81, y=24
+2019-01-08 20:41:46,362:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,362:DEBUG:cursor x=81, y=24
+2019-01-08 20:41:46,364:DEBUG:after moving, cursor x=81, y=23
+2019-01-08 20:41:46,384:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,384:DEBUG:cursor x=81, y=23
+2019-01-08 20:41:46,384:DEBUG:after moving, cursor x=81, y=22
+2019-01-08 20:41:46,423:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,423:DEBUG:cursor x=81, y=22
+2019-01-08 20:41:46,423:DEBUG:after moving, cursor x=81, y=21
+2019-01-08 20:41:46,452:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,452:DEBUG:cursor x=81, y=21
+2019-01-08 20:41:46,452:DEBUG:after moving, cursor x=81, y=20
+2019-01-08 20:41:46,481:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,481:DEBUG:cursor x=81, y=20
+2019-01-08 20:41:46,481:DEBUG:after moving, cursor x=81, y=19
+2019-01-08 20:41:46,511:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,511:DEBUG:cursor x=81, y=19
+2019-01-08 20:41:46,511:DEBUG:after moving, cursor x=81, y=18
+2019-01-08 20:41:46,541:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,541:DEBUG:cursor x=81, y=18
+2019-01-08 20:41:46,541:DEBUG:after moving, cursor x=81, y=17
+2019-01-08 20:41:46,570:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,570:DEBUG:cursor x=81, y=17
+2019-01-08 20:41:46,570:DEBUG:after moving, cursor x=81, y=16
+2019-01-08 20:41:46,600:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,600:DEBUG:cursor x=81, y=16
+2019-01-08 20:41:46,600:DEBUG:after moving, cursor x=81, y=15
+2019-01-08 20:41:46,630:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,630:DEBUG:cursor x=81, y=15
+2019-01-08 20:41:46,630:DEBUG:after moving, cursor x=81, y=14
+2019-01-08 20:41:46,660:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,660:DEBUG:cursor x=81, y=14
+2019-01-08 20:41:46,660:DEBUG:after moving, cursor x=81, y=13
+2019-01-08 20:41:46,689:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,689:DEBUG:cursor x=81, y=13
+2019-01-08 20:41:46,689:DEBUG:after moving, cursor x=81, y=12
+2019-01-08 20:41:46,975:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:46,976:DEBUG:cursor x=81, y=12
+2019-01-08 20:41:46,976:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 20:41:47,170:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:47,170:DEBUG:cursor x=81, y=11
+2019-01-08 20:41:47,170:DEBUG:after moving, cursor x=81, y=10
+2019-01-08 20:41:47,912:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:47,913:DEBUG:cursor x=81, y=10
+2019-01-08 20:41:47,913:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 20:41:48,416:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,417:DEBUG:cursor x=81, y=11
+2019-01-08 20:41:48,417:DEBUG:after moving, cursor x=81, y=12
+2019-01-08 20:41:48,445:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,446:DEBUG:cursor x=81, y=12
+2019-01-08 20:41:48,446:DEBUG:after moving, cursor x=81, y=13
+2019-01-08 20:41:48,476:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,476:DEBUG:cursor x=81, y=13
+2019-01-08 20:41:48,476:DEBUG:after moving, cursor x=81, y=14
+2019-01-08 20:41:48,505:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,505:DEBUG:cursor x=81, y=14
+2019-01-08 20:41:48,505:DEBUG:after moving, cursor x=81, y=15
+2019-01-08 20:41:48,534:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,534:DEBUG:cursor x=81, y=15
+2019-01-08 20:41:48,534:DEBUG:after moving, cursor x=81, y=16
+2019-01-08 20:41:48,564:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,564:DEBUG:cursor x=81, y=16
+2019-01-08 20:41:48,564:DEBUG:after moving, cursor x=81, y=17
+2019-01-08 20:41:48,593:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,593:DEBUG:cursor x=81, y=17
+2019-01-08 20:41:48,593:DEBUG:after moving, cursor x=81, y=18
+2019-01-08 20:41:48,623:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,623:DEBUG:cursor x=81, y=18
+2019-01-08 20:41:48,623:DEBUG:after moving, cursor x=81, y=19
+2019-01-08 20:41:48,653:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,653:DEBUG:cursor x=81, y=19
+2019-01-08 20:41:48,653:DEBUG:after moving, cursor x=81, y=20
+2019-01-08 20:41:48,683:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,683:DEBUG:cursor x=81, y=20
+2019-01-08 20:41:48,683:DEBUG:after moving, cursor x=81, y=21
+2019-01-08 20:41:48,712:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,712:DEBUG:cursor x=81, y=21
+2019-01-08 20:41:48,712:DEBUG:after moving, cursor x=81, y=22
+2019-01-08 20:41:48,742:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,742:DEBUG:cursor x=81, y=22
+2019-01-08 20:41:48,742:DEBUG:after moving, cursor x=81, y=23
+2019-01-08 20:41:48,771:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,772:DEBUG:cursor x=81, y=23
+2019-01-08 20:41:48,772:DEBUG:after moving, cursor x=81, y=24
+2019-01-08 20:41:48,801:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,801:DEBUG:cursor x=81, y=24
+2019-01-08 20:41:48,801:DEBUG:after moving, cursor x=81, y=25
+2019-01-08 20:41:48,831:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,831:DEBUG:cursor x=81, y=25
+2019-01-08 20:41:48,831:DEBUG:after moving, cursor x=81, y=26
+2019-01-08 20:41:48,870:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 20:41:48,870:DEBUG:cursor x=81, y=26
+2019-01-08 20:41:48,870:DEBUG:after moving, cursor x=81, y=27
+2019-01-08 20:41:50,754:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:50,754:DEBUG:cursor x=40, y=27
+2019-01-08 20:41:50,754:DEBUG:after moving, cursor x=40, y=26
+2019-01-08 20:41:50,937:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 20:41:50,937:DEBUG:cursor x=40, y=26
+2019-01-08 20:41:50,937:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 20:41:51,109:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:51,109:DEBUG:cursor x=40, y=25
+2019-01-08 20:41:51,110:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 20:41:51,326:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:51,326:DEBUG:cursor x=39, y=25
+2019-01-08 20:41:51,326:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 20:41:51,537:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:51,537:DEBUG:cursor x=38, y=25
+2019-01-08 20:41:51,537:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 20:41:51,755:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:51,755:DEBUG:cursor x=37, y=25
+2019-01-08 20:41:51,755:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 20:41:51,947:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:51,947:DEBUG:cursor x=36, y=25
+2019-01-08 20:41:51,947:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 20:41:52,200:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:52,201:DEBUG:cursor x=35, y=25
+2019-01-08 20:41:52,201:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 20:41:52,353:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:52,353:DEBUG:cursor x=36, y=25
+2019-01-08 20:41:52,354:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 20:41:52,534:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:52,534:DEBUG:cursor x=37, y=25
+2019-01-08 20:41:52,534:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 20:41:52,697:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:52,697:DEBUG:cursor x=38, y=25
+2019-01-08 20:41:52,697:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 20:41:52,849:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:52,850:DEBUG:cursor x=39, y=25
+2019-01-08 20:41:52,850:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 20:41:52,992:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:52,992:DEBUG:cursor x=40, y=25
+2019-01-08 20:41:52,993:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 20:41:53,165:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:53,165:DEBUG:cursor x=39, y=25
+2019-01-08 20:41:53,165:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 20:41:53,337:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:53,337:DEBUG:cursor x=38, y=25
+2019-01-08 20:41:53,337:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 20:41:53,524:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:53,524:DEBUG:cursor x=37, y=25
+2019-01-08 20:41:53,524:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 20:41:53,748:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:53,749:DEBUG:cursor x=36, y=25
+2019-01-08 20:41:53,749:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 20:41:53,965:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:53,965:DEBUG:cursor x=35, y=25
+2019-01-08 20:41:53,965:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 20:41:54,146:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:54,146:DEBUG:cursor x=36, y=25
+2019-01-08 20:41:54,146:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 20:41:54,320:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:54,320:DEBUG:cursor x=37, y=25
+2019-01-08 20:41:54,320:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 20:41:54,500:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:54,500:DEBUG:cursor x=38, y=25
+2019-01-08 20:41:54,500:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 20:41:54,699:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 20:41:54,699:DEBUG:cursor x=39, y=25
+2019-01-08 20:41:54,699:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 20:41:54,851:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:54,851:DEBUG:cursor x=40, y=25
+2019-01-08 20:41:54,851:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 20:41:55,021:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:55,021:DEBUG:cursor x=39, y=25
+2019-01-08 20:41:55,021:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 20:41:55,183:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:55,183:DEBUG:cursor x=38, y=25
+2019-01-08 20:41:55,183:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 20:41:55,344:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:55,344:DEBUG:cursor x=37, y=25
+2019-01-08 20:41:55,344:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 20:41:55,504:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:55,504:DEBUG:cursor x=36, y=25
+2019-01-08 20:41:55,504:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 20:41:55,674:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 20:41:55,674:DEBUG:cursor x=35, y=25
+2019-01-08 20:41:55,674:DEBUG:after moving, cursor x=34, y=25
+2019-01-08 20:56:24,627:DEBUG:Initialized starting game variables
+2019-01-08 20:56:24,627:DEBUG:Starting game loop
+2019-01-08 20:57:16,061:DEBUG:Initialized starting game variables
+2019-01-08 20:57:16,062:DEBUG:Starting game loop
+2019-01-08 21:00:04,782:DEBUG:Initialized starting game variables
+2019-01-08 21:00:04,782:DEBUG:Starting game loop
+2019-01-08 21:00:08,760:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:00:08,760:DEBUG:cursor x=41, y=29
+2019-01-08 21:00:08,760:DEBUG:after moving, cursor x=41, y=28
+2019-01-08 21:00:08,935:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:00:08,935:DEBUG:cursor x=41, y=28
+2019-01-08 21:00:08,935:DEBUG:after moving, cursor x=41, y=27
+2019-01-08 21:00:09,130:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:00:09,130:DEBUG:cursor x=41, y=27
+2019-01-08 21:00:09,130:DEBUG:after moving, cursor x=41, y=28
+2019-01-08 21:00:09,307:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:00:09,308:DEBUG:cursor x=41, y=28
+2019-01-08 21:00:09,308:DEBUG:after moving, cursor x=41, y=29
+2019-01-08 21:00:09,475:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:00:09,475:DEBUG:cursor x=41, y=29
+2019-01-08 21:00:09,475:DEBUG:after moving, cursor x=42, y=29
+2019-01-08 21:00:09,637:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:00:09,637:DEBUG:cursor x=42, y=29
+2019-01-08 21:00:09,637:DEBUG:after moving, cursor x=43, y=29
+2019-01-08 21:00:09,935:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:00:09,935:DEBUG:cursor x=43, y=29
+2019-01-08 21:00:09,935:DEBUG:after moving, cursor x=42, y=29
+2019-01-08 21:00:10,112:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:00:10,112:DEBUG:cursor x=42, y=29
+2019-01-08 21:00:10,112:DEBUG:after moving, cursor x=41, y=29
+2019-01-08 21:00:14,619:DEBUG:Initialized starting game variables
+2019-01-08 21:00:14,619:DEBUG:Starting game loop
+2019-01-08 21:00:41,531:DEBUG:Initialized starting game variables
+2019-01-08 21:00:41,531:DEBUG:Starting game loop
+2019-01-08 21:00:52,264:DEBUG:Initialized starting game variables
+2019-01-08 21:00:52,264:DEBUG:Starting game loop
+2019-01-08 21:05:24,722:DEBUG:Initialized starting game variables
+2019-01-08 21:05:24,722:DEBUG:Starting game loop
+2019-01-08 21:05:27,848:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:05:27,848:DEBUG:cursor x=40, y=25
+2019-01-08 21:05:27,848:DEBUG:after moving, cursor x=41, y=25
+2019-01-08 21:05:28,040:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:05:28,040:DEBUG:cursor x=41, y=25
+2019-01-08 21:05:28,040:DEBUG:after moving, cursor x=42, y=25
+2019-01-08 21:07:00,712:DEBUG:Initialized starting game variables
+2019-01-08 21:07:00,712:DEBUG:Starting game loop
+2019-01-08 21:07:14,939:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:14,939:DEBUG:cursor x=40, y=25
+2019-01-08 21:07:14,939:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:07:15,166:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:15,167:DEBUG:cursor x=40, y=24
+2019-01-08 21:07:15,167:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:07:15,354:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:15,354:DEBUG:cursor x=40, y=23
+2019-01-08 21:07:15,354:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:07:15,531:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:15,531:DEBUG:cursor x=40, y=22
+2019-01-08 21:07:15,531:DEBUG:after moving, cursor x=40, y=21
+2019-01-08 21:07:16,157:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:07:16,157:DEBUG:cursor x=40, y=21
+2019-01-08 21:07:16,157:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:07:16,313:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:07:16,313:DEBUG:cursor x=40, y=22
+2019-01-08 21:07:16,313:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:07:16,480:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:07:16,480:DEBUG:cursor x=40, y=23
+2019-01-08 21:07:16,480:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:07:16,670:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:07:16,670:DEBUG:cursor x=40, y=24
+2019-01-08 21:07:16,670:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 21:07:23,163:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,163:DEBUG:cursor x=41, y=32
+2019-01-08 21:07:23,163:DEBUG:after moving, cursor x=42, y=32
+2019-01-08 21:07:23,661:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,661:DEBUG:cursor x=42, y=32
+2019-01-08 21:07:23,661:DEBUG:after moving, cursor x=43, y=32
+2019-01-08 21:07:23,693:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,693:DEBUG:cursor x=43, y=32
+2019-01-08 21:07:23,693:DEBUG:after moving, cursor x=44, y=32
+2019-01-08 21:07:23,725:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,726:DEBUG:cursor x=44, y=32
+2019-01-08 21:07:23,726:DEBUG:after moving, cursor x=45, y=32
+2019-01-08 21:07:23,747:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,748:DEBUG:cursor x=45, y=32
+2019-01-08 21:07:23,748:DEBUG:after moving, cursor x=46, y=32
+2019-01-08 21:07:23,779:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,779:DEBUG:cursor x=46, y=32
+2019-01-08 21:07:23,779:DEBUG:after moving, cursor x=47, y=32
+2019-01-08 21:07:23,812:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,812:DEBUG:cursor x=47, y=32
+2019-01-08 21:07:23,812:DEBUG:after moving, cursor x=48, y=32
+2019-01-08 21:07:23,844:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,844:DEBUG:cursor x=48, y=32
+2019-01-08 21:07:23,844:DEBUG:after moving, cursor x=49, y=32
+2019-01-08 21:07:23,877:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,877:DEBUG:cursor x=49, y=32
+2019-01-08 21:07:23,877:DEBUG:after moving, cursor x=50, y=32
+2019-01-08 21:07:23,910:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,910:DEBUG:cursor x=50, y=32
+2019-01-08 21:07:23,910:DEBUG:after moving, cursor x=51, y=32
+2019-01-08 21:07:23,932:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,932:DEBUG:cursor x=51, y=32
+2019-01-08 21:07:23,932:DEBUG:after moving, cursor x=52, y=32
+2019-01-08 21:07:23,964:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,964:DEBUG:cursor x=52, y=32
+2019-01-08 21:07:23,964:DEBUG:after moving, cursor x=53, y=32
+2019-01-08 21:07:23,996:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:23,996:DEBUG:cursor x=53, y=32
+2019-01-08 21:07:23,996:DEBUG:after moving, cursor x=54, y=32
+2019-01-08 21:07:24,028:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,028:DEBUG:cursor x=54, y=32
+2019-01-08 21:07:24,028:DEBUG:after moving, cursor x=55, y=32
+2019-01-08 21:07:24,060:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,061:DEBUG:cursor x=55, y=32
+2019-01-08 21:07:24,061:DEBUG:after moving, cursor x=56, y=32
+2019-01-08 21:07:24,083:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,083:DEBUG:cursor x=56, y=32
+2019-01-08 21:07:24,083:DEBUG:after moving, cursor x=57, y=32
+2019-01-08 21:07:24,115:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,115:DEBUG:cursor x=57, y=32
+2019-01-08 21:07:24,115:DEBUG:after moving, cursor x=58, y=32
+2019-01-08 21:07:24,148:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,148:DEBUG:cursor x=58, y=32
+2019-01-08 21:07:24,148:DEBUG:after moving, cursor x=59, y=32
+2019-01-08 21:07:24,180:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,180:DEBUG:cursor x=59, y=32
+2019-01-08 21:07:24,180:DEBUG:after moving, cursor x=60, y=32
+2019-01-08 21:07:24,212:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,212:DEBUG:cursor x=60, y=32
+2019-01-08 21:07:24,212:DEBUG:after moving, cursor x=61, y=32
+2019-01-08 21:07:24,234:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:07:24,234:DEBUG:cursor x=61, y=32
+2019-01-08 21:07:24,234:DEBUG:after moving, cursor x=62, y=32
+2019-01-08 21:07:24,256:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,257:DEBUG:cursor x=62, y=32
+2019-01-08 21:07:24,257:DEBUG:after moving, cursor x=62, y=31
+2019-01-08 21:07:24,761:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,761:DEBUG:cursor x=62, y=31
+2019-01-08 21:07:24,761:DEBUG:after moving, cursor x=62, y=30
+2019-01-08 21:07:24,783:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,783:DEBUG:cursor x=62, y=30
+2019-01-08 21:07:24,784:DEBUG:after moving, cursor x=62, y=29
+2019-01-08 21:07:24,816:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,816:DEBUG:cursor x=62, y=29
+2019-01-08 21:07:24,816:DEBUG:after moving, cursor x=62, y=28
+2019-01-08 21:07:24,848:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,849:DEBUG:cursor x=62, y=28
+2019-01-08 21:07:24,849:DEBUG:after moving, cursor x=62, y=27
+2019-01-08 21:07:24,880:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,881:DEBUG:cursor x=62, y=27
+2019-01-08 21:07:24,881:DEBUG:after moving, cursor x=62, y=26
+2019-01-08 21:07:24,914:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,914:DEBUG:cursor x=62, y=26
+2019-01-08 21:07:24,914:DEBUG:after moving, cursor x=62, y=25
+2019-01-08 21:07:24,936:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:07:24,936:DEBUG:cursor x=62, y=25
+2019-01-08 21:07:24,936:DEBUG:after moving, cursor x=62, y=24
+2019-01-08 21:07:26,800:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:07:26,800:DEBUG:cursor x=62, y=17
+2019-01-08 21:07:26,800:DEBUG:after moving, cursor x=61, y=17
+2019-01-08 21:07:27,047:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:07:27,047:DEBUG:cursor x=61, y=17
+2019-01-08 21:07:27,047:DEBUG:after moving, cursor x=60, y=17
+2019-01-08 21:10:27,055:DEBUG:Initialized starting game variables
+2019-01-08 21:10:27,055:DEBUG:Starting game loop
+2019-01-08 21:11:07,919:DEBUG:Initialized starting game variables
+2019-01-08 21:11:07,919:DEBUG:Starting game loop
+2019-01-08 21:11:10,300:DEBUG:changed to build mode
+2019-01-08 21:11:10,552:DEBUG:switched out of mode
+2019-01-08 21:21:04,111:DEBUG:Initialized starting game variables
+2019-01-08 21:21:04,111:DEBUG:Starting game loop
+2019-01-08 21:21:07,643:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:07,643:DEBUG:cursor x=40, y=25
+2019-01-08 21:21:07,643:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:21:07,879:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:07,879:DEBUG:cursor x=40, y=24
+2019-01-08 21:21:07,879:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:21:08,073:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:08,073:DEBUG:cursor x=40, y=23
+2019-01-08 21:21:08,073:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:21:08,285:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:08,285:DEBUG:cursor x=40, y=22
+2019-01-08 21:21:08,285:DEBUG:after moving, cursor x=40, y=21
+2019-01-08 21:21:08,530:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:08,530:DEBUG:cursor x=40, y=21
+2019-01-08 21:21:08,530:DEBUG:after moving, cursor x=40, y=20
+2019-01-08 21:21:08,738:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:08,738:DEBUG:cursor x=40, y=20
+2019-01-08 21:21:08,738:DEBUG:after moving, cursor x=40, y=21
+2019-01-08 21:21:09,238:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,238:DEBUG:cursor x=40, y=21
+2019-01-08 21:21:09,238:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:21:09,272:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,272:DEBUG:cursor x=40, y=22
+2019-01-08 21:21:09,273:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:21:09,303:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,303:DEBUG:cursor x=40, y=23
+2019-01-08 21:21:09,303:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:21:09,334:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,334:DEBUG:cursor x=40, y=24
+2019-01-08 21:21:09,334:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 21:21:09,366:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,366:DEBUG:cursor x=40, y=25
+2019-01-08 21:21:09,366:DEBUG:after moving, cursor x=40, y=26
+2019-01-08 21:21:09,396:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,396:DEBUG:cursor x=40, y=26
+2019-01-08 21:21:09,396:DEBUG:after moving, cursor x=40, y=27
+2019-01-08 21:21:09,428:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,428:DEBUG:cursor x=40, y=27
+2019-01-08 21:21:09,428:DEBUG:after moving, cursor x=40, y=28
+2019-01-08 21:21:09,449:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:09,450:DEBUG:cursor x=40, y=28
+2019-01-08 21:21:09,450:DEBUG:after moving, cursor x=40, y=29
+2019-01-08 21:21:09,470:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:09,470:DEBUG:cursor x=40, y=29
+2019-01-08 21:21:09,470:DEBUG:after moving, cursor x=39, y=29
+2019-01-08 21:21:09,958:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:09,958:DEBUG:cursor x=39, y=29
+2019-01-08 21:21:09,958:DEBUG:after moving, cursor x=38, y=29
+2019-01-08 21:21:09,989:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:09,989:DEBUG:cursor x=38, y=29
+2019-01-08 21:21:09,989:DEBUG:after moving, cursor x=37, y=29
+2019-01-08 21:21:10,019:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:10,019:DEBUG:cursor x=37, y=29
+2019-01-08 21:21:10,019:DEBUG:after moving, cursor x=37, y=28
+2019-01-08 21:21:10,452:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:10,452:DEBUG:cursor x=37, y=28
+2019-01-08 21:21:10,452:DEBUG:after moving, cursor x=37, y=27
+2019-01-08 21:21:10,649:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:10,650:DEBUG:cursor x=37, y=27
+2019-01-08 21:21:10,650:DEBUG:after moving, cursor x=37, y=26
+2019-01-08 21:21:11,039:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:11,039:DEBUG:cursor x=37, y=26
+2019-01-08 21:21:11,039:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:21:11,243:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:11,243:DEBUG:cursor x=37, y=25
+2019-01-08 21:21:11,243:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:21:11,417:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:11,417:DEBUG:cursor x=38, y=25
+2019-01-08 21:21:11,417:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:21:11,722:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:11,722:DEBUG:cursor x=39, y=25
+2019-01-08 21:21:11,722:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:21:12,227:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:12,227:DEBUG:cursor x=38, y=25
+2019-01-08 21:21:12,227:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:21:12,257:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:12,258:DEBUG:cursor x=37, y=25
+2019-01-08 21:21:12,258:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:21:12,287:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:12,287:DEBUG:cursor x=36, y=25
+2019-01-08 21:21:12,288:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 21:21:12,423:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:12,423:DEBUG:cursor x=35, y=25
+2019-01-08 21:21:12,423:DEBUG:after moving, cursor x=34, y=25
+2019-01-08 21:21:12,728:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:12,728:DEBUG:cursor x=34, y=25
+2019-01-08 21:21:12,730:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 21:21:12,901:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:12,901:DEBUG:cursor x=35, y=25
+2019-01-08 21:21:12,901:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:21:13,089:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:13,090:DEBUG:cursor x=36, y=25
+2019-01-08 21:21:13,090:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:21:13,248:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:13,248:DEBUG:cursor x=37, y=25
+2019-01-08 21:21:13,248:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:21:13,441:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:13,441:DEBUG:cursor x=38, y=25
+2019-01-08 21:21:13,441:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:21:15,267:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:15,267:DEBUG:cursor x=81, y=25
+2019-01-08 21:21:15,267:DEBUG:after moving, cursor x=81, y=24
+2019-01-08 21:21:15,437:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:15,438:DEBUG:cursor x=81, y=24
+2019-01-08 21:21:15,438:DEBUG:after moving, cursor x=81, y=23
+2019-01-08 21:21:15,607:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:15,607:DEBUG:cursor x=81, y=23
+2019-01-08 21:21:15,608:DEBUG:after moving, cursor x=81, y=22
+2019-01-08 21:21:16,103:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,103:DEBUG:cursor x=81, y=22
+2019-01-08 21:21:16,103:DEBUG:after moving, cursor x=81, y=21
+2019-01-08 21:21:16,134:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,134:DEBUG:cursor x=81, y=21
+2019-01-08 21:21:16,134:DEBUG:after moving, cursor x=81, y=20
+2019-01-08 21:21:16,164:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,164:DEBUG:cursor x=81, y=20
+2019-01-08 21:21:16,164:DEBUG:after moving, cursor x=81, y=19
+2019-01-08 21:21:16,194:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,194:DEBUG:cursor x=81, y=19
+2019-01-08 21:21:16,194:DEBUG:after moving, cursor x=81, y=18
+2019-01-08 21:21:16,224:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,224:DEBUG:cursor x=81, y=18
+2019-01-08 21:21:16,224:DEBUG:after moving, cursor x=81, y=17
+2019-01-08 21:21:16,255:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,255:DEBUG:cursor x=81, y=17
+2019-01-08 21:21:16,255:DEBUG:after moving, cursor x=81, y=16
+2019-01-08 21:21:16,285:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,285:DEBUG:cursor x=81, y=16
+2019-01-08 21:21:16,285:DEBUG:after moving, cursor x=81, y=15
+2019-01-08 21:21:16,316:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,316:DEBUG:cursor x=81, y=15
+2019-01-08 21:21:16,316:DEBUG:after moving, cursor x=81, y=14
+2019-01-08 21:21:16,345:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,345:DEBUG:cursor x=81, y=14
+2019-01-08 21:21:16,345:DEBUG:after moving, cursor x=81, y=13
+2019-01-08 21:21:16,376:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,376:DEBUG:cursor x=81, y=13
+2019-01-08 21:21:16,376:DEBUG:after moving, cursor x=81, y=12
+2019-01-08 21:21:16,405:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,405:DEBUG:cursor x=81, y=12
+2019-01-08 21:21:16,405:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 21:21:16,445:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,445:DEBUG:cursor x=81, y=11
+2019-01-08 21:21:16,445:DEBUG:after moving, cursor x=81, y=10
+2019-01-08 21:21:16,476:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,476:DEBUG:cursor x=81, y=10
+2019-01-08 21:21:16,476:DEBUG:after moving, cursor x=81, y=9
+2019-01-08 21:21:16,496:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,496:DEBUG:cursor x=81, y=9
+2019-01-08 21:21:16,496:DEBUG:after moving, cursor x=81, y=8
+2019-01-08 21:21:16,536:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:16,536:DEBUG:cursor x=81, y=8
+2019-01-08 21:21:16,536:DEBUG:after moving, cursor x=81, y=7
+2019-01-08 21:21:16,575:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:16,575:DEBUG:cursor x=81, y=7
+2019-01-08 21:21:16,575:DEBUG:after moving, cursor x=81, y=8
+2019-01-08 21:21:17,081:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,081:DEBUG:cursor x=81, y=8
+2019-01-08 21:21:17,081:DEBUG:after moving, cursor x=81, y=9
+2019-01-08 21:21:17,111:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,111:DEBUG:cursor x=81, y=9
+2019-01-08 21:21:17,111:DEBUG:after moving, cursor x=81, y=10
+2019-01-08 21:21:17,141:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,141:DEBUG:cursor x=81, y=10
+2019-01-08 21:21:17,141:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 21:21:17,171:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,171:DEBUG:cursor x=81, y=11
+2019-01-08 21:21:17,171:DEBUG:after moving, cursor x=81, y=12
+2019-01-08 21:21:17,201:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,201:DEBUG:cursor x=81, y=12
+2019-01-08 21:21:17,201:DEBUG:after moving, cursor x=81, y=13
+2019-01-08 21:21:17,231:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:17,231:DEBUG:cursor x=81, y=13
+2019-01-08 21:21:17,231:DEBUG:after moving, cursor x=81, y=14
+2019-01-08 21:21:17,308:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:17,308:DEBUG:cursor x=81, y=14
+2019-01-08 21:21:17,308:DEBUG:after moving, cursor x=81, y=13
+2019-01-08 21:21:17,808:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:17,809:DEBUG:cursor x=81, y=13
+2019-01-08 21:21:17,810:DEBUG:after moving, cursor x=81, y=12
+2019-01-08 21:21:17,840:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:17,840:DEBUG:cursor x=81, y=12
+2019-01-08 21:21:17,840:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 21:21:17,870:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:17,870:DEBUG:cursor x=81, y=11
+2019-01-08 21:21:17,870:DEBUG:after moving, cursor x=81, y=10
+2019-01-08 21:21:18,081:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:18,081:DEBUG:cursor x=81, y=10
+2019-01-08 21:21:18,081:DEBUG:after moving, cursor x=81, y=11
+2019-01-08 21:21:18,404:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:18,404:DEBUG:cursor x=81, y=11
+2019-01-08 21:21:18,404:DEBUG:after moving, cursor x=81, y=10
+2019-01-08 21:21:20,553:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:20,553:DEBUG:cursor x=119, y=10
+2019-01-08 21:21:20,553:DEBUG:after moving, cursor x=119, y=11
+2019-01-08 21:21:21,050:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,050:DEBUG:cursor x=119, y=11
+2019-01-08 21:21:21,050:DEBUG:after moving, cursor x=119, y=12
+2019-01-08 21:21:21,079:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,079:DEBUG:cursor x=119, y=12
+2019-01-08 21:21:21,079:DEBUG:after moving, cursor x=119, y=13
+2019-01-08 21:21:21,109:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,109:DEBUG:cursor x=119, y=13
+2019-01-08 21:21:21,110:DEBUG:after moving, cursor x=119, y=14
+2019-01-08 21:21:21,140:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,140:DEBUG:cursor x=119, y=14
+2019-01-08 21:21:21,140:DEBUG:after moving, cursor x=119, y=15
+2019-01-08 21:21:21,169:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,169:DEBUG:cursor x=119, y=15
+2019-01-08 21:21:21,169:DEBUG:after moving, cursor x=119, y=16
+2019-01-08 21:21:21,199:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,200:DEBUG:cursor x=119, y=16
+2019-01-08 21:21:21,200:DEBUG:after moving, cursor x=119, y=17
+2019-01-08 21:21:21,229:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,229:DEBUG:cursor x=119, y=17
+2019-01-08 21:21:21,229:DEBUG:after moving, cursor x=119, y=18
+2019-01-08 21:21:21,258:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,258:DEBUG:cursor x=119, y=18
+2019-01-08 21:21:21,258:DEBUG:after moving, cursor x=119, y=19
+2019-01-08 21:21:21,288:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,288:DEBUG:cursor x=119, y=19
+2019-01-08 21:21:21,288:DEBUG:after moving, cursor x=119, y=20
+2019-01-08 21:21:21,318:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,318:DEBUG:cursor x=119, y=20
+2019-01-08 21:21:21,318:DEBUG:after moving, cursor x=119, y=21
+2019-01-08 21:21:21,347:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,347:DEBUG:cursor x=119, y=21
+2019-01-08 21:21:21,347:DEBUG:after moving, cursor x=119, y=22
+2019-01-08 21:21:21,378:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,378:DEBUG:cursor x=119, y=22
+2019-01-08 21:21:21,378:DEBUG:after moving, cursor x=119, y=23
+2019-01-08 21:21:21,408:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,409:DEBUG:cursor x=119, y=23
+2019-01-08 21:21:21,409:DEBUG:after moving, cursor x=119, y=24
+2019-01-08 21:21:21,439:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,439:DEBUG:cursor x=119, y=24
+2019-01-08 21:21:21,439:DEBUG:after moving, cursor x=119, y=25
+2019-01-08 21:21:21,469:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,469:DEBUG:cursor x=119, y=25
+2019-01-08 21:21:21,469:DEBUG:after moving, cursor x=119, y=26
+2019-01-08 21:21:21,499:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,500:DEBUG:cursor x=119, y=26
+2019-01-08 21:21:21,500:DEBUG:after moving, cursor x=119, y=27
+2019-01-08 21:21:21,529:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,529:DEBUG:cursor x=119, y=27
+2019-01-08 21:21:21,529:DEBUG:after moving, cursor x=119, y=28
+2019-01-08 21:21:21,560:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:21,560:DEBUG:cursor x=119, y=28
+2019-01-08 21:21:21,560:DEBUG:after moving, cursor x=119, y=29
+2019-01-08 21:21:21,611:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:21,611:DEBUG:cursor x=118, y=29
+2019-01-08 21:21:21,611:DEBUG:after moving, cursor x=117, y=29
+2019-01-08 21:21:22,085:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,085:DEBUG:cursor x=117, y=29
+2019-01-08 21:21:22,085:DEBUG:after moving, cursor x=116, y=29
+2019-01-08 21:21:22,124:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,124:DEBUG:cursor x=116, y=29
+2019-01-08 21:21:22,124:DEBUG:after moving, cursor x=115, y=29
+2019-01-08 21:21:22,154:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,155:DEBUG:cursor x=115, y=29
+2019-01-08 21:21:22,155:DEBUG:after moving, cursor x=114, y=29
+2019-01-08 21:21:22,185:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,185:DEBUG:cursor x=114, y=29
+2019-01-08 21:21:22,185:DEBUG:after moving, cursor x=113, y=29
+2019-01-08 21:21:22,205:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,205:DEBUG:cursor x=113, y=29
+2019-01-08 21:21:22,206:DEBUG:after moving, cursor x=112, y=29
+2019-01-08 21:21:22,244:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,244:DEBUG:cursor x=112, y=29
+2019-01-08 21:21:22,244:DEBUG:after moving, cursor x=111, y=29
+2019-01-08 21:21:22,275:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,275:DEBUG:cursor x=111, y=29
+2019-01-08 21:21:22,275:DEBUG:after moving, cursor x=110, y=29
+2019-01-08 21:21:22,305:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,305:DEBUG:cursor x=110, y=29
+2019-01-08 21:21:22,305:DEBUG:after moving, cursor x=109, y=29
+2019-01-08 21:21:22,335:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,335:DEBUG:cursor x=109, y=29
+2019-01-08 21:21:22,335:DEBUG:after moving, cursor x=108, y=29
+2019-01-08 21:21:22,365:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,365:DEBUG:cursor x=108, y=29
+2019-01-08 21:21:22,365:DEBUG:after moving, cursor x=107, y=29
+2019-01-08 21:21:22,395:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,395:DEBUG:cursor x=107, y=29
+2019-01-08 21:21:22,395:DEBUG:after moving, cursor x=106, y=29
+2019-01-08 21:21:22,424:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,424:DEBUG:cursor x=106, y=29
+2019-01-08 21:21:22,424:DEBUG:after moving, cursor x=105, y=29
+2019-01-08 21:21:22,454:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,454:DEBUG:cursor x=105, y=29
+2019-01-08 21:21:22,454:DEBUG:after moving, cursor x=104, y=29
+2019-01-08 21:21:22,484:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,484:DEBUG:cursor x=104, y=29
+2019-01-08 21:21:22,484:DEBUG:after moving, cursor x=103, y=29
+2019-01-08 21:21:22,514:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,514:DEBUG:cursor x=103, y=29
+2019-01-08 21:21:22,514:DEBUG:after moving, cursor x=102, y=29
+2019-01-08 21:21:22,544:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,544:DEBUG:cursor x=102, y=29
+2019-01-08 21:21:22,544:DEBUG:after moving, cursor x=101, y=29
+2019-01-08 21:21:22,573:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,573:DEBUG:cursor x=101, y=29
+2019-01-08 21:21:22,573:DEBUG:after moving, cursor x=100, y=29
+2019-01-08 21:21:22,602:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,602:DEBUG:cursor x=100, y=29
+2019-01-08 21:21:22,602:DEBUG:after moving, cursor x=99, y=29
+2019-01-08 21:21:22,632:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,632:DEBUG:cursor x=99, y=29
+2019-01-08 21:21:22,632:DEBUG:after moving, cursor x=98, y=29
+2019-01-08 21:21:22,662:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:22,662:DEBUG:cursor x=98, y=29
+2019-01-08 21:21:22,662:DEBUG:after moving, cursor x=97, y=29
+2019-01-08 21:21:23,207:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:23,208:DEBUG:cursor x=97, y=29
+2019-01-08 21:21:23,209:DEBUG:after moving, cursor x=96, y=29
+2019-01-08 21:21:24,189:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,189:DEBUG:cursor x=87, y=29
+2019-01-08 21:21:24,189:DEBUG:after moving, cursor x=86, y=29
+2019-01-08 21:21:24,690:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,690:DEBUG:cursor x=86, y=29
+2019-01-08 21:21:24,690:DEBUG:after moving, cursor x=85, y=29
+2019-01-08 21:21:24,719:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,719:DEBUG:cursor x=85, y=29
+2019-01-08 21:21:24,719:DEBUG:after moving, cursor x=84, y=29
+2019-01-08 21:21:24,748:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,749:DEBUG:cursor x=84, y=29
+2019-01-08 21:21:24,749:DEBUG:after moving, cursor x=83, y=29
+2019-01-08 21:21:24,779:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,779:DEBUG:cursor x=83, y=29
+2019-01-08 21:21:24,779:DEBUG:after moving, cursor x=82, y=29
+2019-01-08 21:21:24,810:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,810:DEBUG:cursor x=82, y=29
+2019-01-08 21:21:24,810:DEBUG:after moving, cursor x=81, y=29
+2019-01-08 21:21:24,841:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,841:DEBUG:cursor x=81, y=29
+2019-01-08 21:21:24,841:DEBUG:after moving, cursor x=80, y=29
+2019-01-08 21:21:24,871:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,871:DEBUG:cursor x=80, y=29
+2019-01-08 21:21:24,871:DEBUG:after moving, cursor x=79, y=29
+2019-01-08 21:21:24,901:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,901:DEBUG:cursor x=79, y=29
+2019-01-08 21:21:24,901:DEBUG:after moving, cursor x=78, y=29
+2019-01-08 21:21:24,931:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,931:DEBUG:cursor x=78, y=29
+2019-01-08 21:21:24,931:DEBUG:after moving, cursor x=77, y=29
+2019-01-08 21:21:24,960:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,960:DEBUG:cursor x=77, y=29
+2019-01-08 21:21:24,960:DEBUG:after moving, cursor x=76, y=29
+2019-01-08 21:21:24,990:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:24,990:DEBUG:cursor x=76, y=29
+2019-01-08 21:21:24,990:DEBUG:after moving, cursor x=75, y=29
+2019-01-08 21:21:25,020:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:25,020:DEBUG:cursor x=75, y=29
+2019-01-08 21:21:25,020:DEBUG:after moving, cursor x=74, y=29
+2019-01-08 21:21:25,050:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:25,050:DEBUG:cursor x=74, y=29
+2019-01-08 21:21:25,050:DEBUG:after moving, cursor x=73, y=29
+2019-01-08 21:21:26,534:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:26,534:DEBUG:cursor x=51, y=29
+2019-01-08 21:21:26,534:DEBUG:after moving, cursor x=50, y=29
+2019-01-08 21:21:28,898:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:28,898:DEBUG:cursor x=7, y=29
+2019-01-08 21:21:28,898:DEBUG:after moving, cursor x=7, y=28
+2019-01-08 21:21:29,065:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,065:DEBUG:cursor x=7, y=28
+2019-01-08 21:21:29,065:DEBUG:after moving, cursor x=8, y=28
+2019-01-08 21:21:29,565:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,565:DEBUG:cursor x=8, y=28
+2019-01-08 21:21:29,565:DEBUG:after moving, cursor x=9, y=28
+2019-01-08 21:21:29,595:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,595:DEBUG:cursor x=9, y=28
+2019-01-08 21:21:29,595:DEBUG:after moving, cursor x=10, y=28
+2019-01-08 21:21:29,625:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,625:DEBUG:cursor x=10, y=28
+2019-01-08 21:21:29,625:DEBUG:after moving, cursor x=11, y=28
+2019-01-08 21:21:29,656:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,656:DEBUG:cursor x=11, y=28
+2019-01-08 21:21:29,656:DEBUG:after moving, cursor x=12, y=28
+2019-01-08 21:21:29,685:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,685:DEBUG:cursor x=12, y=28
+2019-01-08 21:21:29,685:DEBUG:after moving, cursor x=13, y=28
+2019-01-08 21:21:29,715:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,715:DEBUG:cursor x=13, y=28
+2019-01-08 21:21:29,715:DEBUG:after moving, cursor x=14, y=28
+2019-01-08 21:21:29,744:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,744:DEBUG:cursor x=14, y=28
+2019-01-08 21:21:29,744:DEBUG:after moving, cursor x=15, y=28
+2019-01-08 21:21:29,773:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,774:DEBUG:cursor x=15, y=28
+2019-01-08 21:21:29,774:DEBUG:after moving, cursor x=16, y=28
+2019-01-08 21:21:29,803:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,803:DEBUG:cursor x=16, y=28
+2019-01-08 21:21:29,803:DEBUG:after moving, cursor x=17, y=28
+2019-01-08 21:21:29,833:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,833:DEBUG:cursor x=17, y=28
+2019-01-08 21:21:29,833:DEBUG:after moving, cursor x=18, y=28
+2019-01-08 21:21:29,862:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,862:DEBUG:cursor x=18, y=28
+2019-01-08 21:21:29,862:DEBUG:after moving, cursor x=19, y=28
+2019-01-08 21:21:29,892:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,892:DEBUG:cursor x=19, y=28
+2019-01-08 21:21:29,892:DEBUG:after moving, cursor x=20, y=28
+2019-01-08 21:21:29,922:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,922:DEBUG:cursor x=20, y=28
+2019-01-08 21:21:29,922:DEBUG:after moving, cursor x=21, y=28
+2019-01-08 21:21:29,953:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,953:DEBUG:cursor x=21, y=28
+2019-01-08 21:21:29,953:DEBUG:after moving, cursor x=22, y=28
+2019-01-08 21:21:29,983:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:29,983:DEBUG:cursor x=22, y=28
+2019-01-08 21:21:29,983:DEBUG:after moving, cursor x=23, y=28
+2019-01-08 21:21:30,012:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,012:DEBUG:cursor x=23, y=28
+2019-01-08 21:21:30,013:DEBUG:after moving, cursor x=24, y=28
+2019-01-08 21:21:30,042:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,042:DEBUG:cursor x=24, y=28
+2019-01-08 21:21:30,042:DEBUG:after moving, cursor x=25, y=28
+2019-01-08 21:21:30,071:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,072:DEBUG:cursor x=25, y=28
+2019-01-08 21:21:30,072:DEBUG:after moving, cursor x=26, y=28
+2019-01-08 21:21:30,111:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,111:DEBUG:cursor x=26, y=28
+2019-01-08 21:21:30,111:DEBUG:after moving, cursor x=27, y=28
+2019-01-08 21:21:30,141:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,141:DEBUG:cursor x=27, y=28
+2019-01-08 21:21:30,141:DEBUG:after moving, cursor x=28, y=28
+2019-01-08 21:21:30,171:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,171:DEBUG:cursor x=28, y=28
+2019-01-08 21:21:30,171:DEBUG:after moving, cursor x=29, y=28
+2019-01-08 21:21:30,201:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,201:DEBUG:cursor x=29, y=28
+2019-01-08 21:21:30,201:DEBUG:after moving, cursor x=30, y=28
+2019-01-08 21:21:30,230:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,230:DEBUG:cursor x=30, y=28
+2019-01-08 21:21:30,231:DEBUG:after moving, cursor x=31, y=28
+2019-01-08 21:21:30,260:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,260:DEBUG:cursor x=31, y=28
+2019-01-08 21:21:30,260:DEBUG:after moving, cursor x=32, y=28
+2019-01-08 21:21:30,290:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,290:DEBUG:cursor x=32, y=28
+2019-01-08 21:21:30,290:DEBUG:after moving, cursor x=33, y=28
+2019-01-08 21:21:30,320:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,320:DEBUG:cursor x=33, y=28
+2019-01-08 21:21:30,320:DEBUG:after moving, cursor x=34, y=28
+2019-01-08 21:21:30,349:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,349:DEBUG:cursor x=34, y=28
+2019-01-08 21:21:30,350:DEBUG:after moving, cursor x=35, y=28
+2019-01-08 21:21:30,379:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,379:DEBUG:cursor x=35, y=28
+2019-01-08 21:21:30,379:DEBUG:after moving, cursor x=36, y=28
+2019-01-08 21:21:30,410:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,410:DEBUG:cursor x=36, y=28
+2019-01-08 21:21:30,410:DEBUG:after moving, cursor x=37, y=28
+2019-01-08 21:21:30,440:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,440:DEBUG:cursor x=37, y=28
+2019-01-08 21:21:30,440:DEBUG:after moving, cursor x=38, y=28
+2019-01-08 21:21:30,470:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,470:DEBUG:cursor x=38, y=28
+2019-01-08 21:21:30,470:DEBUG:after moving, cursor x=39, y=28
+2019-01-08 21:21:30,500:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:30,500:DEBUG:cursor x=39, y=28
+2019-01-08 21:21:30,500:DEBUG:after moving, cursor x=40, y=28
+2019-01-08 21:21:30,520:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:30,520:DEBUG:cursor x=40, y=28
+2019-01-08 21:21:30,520:DEBUG:after moving, cursor x=40, y=27
+2019-01-08 21:21:30,720:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:30,720:DEBUG:cursor x=40, y=27
+2019-01-08 21:21:30,721:DEBUG:after moving, cursor x=40, y=26
+2019-01-08 21:21:31,006:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:21:31,007:DEBUG:cursor x=40, y=26
+2019-01-08 21:21:31,007:DEBUG:after moving, cursor x=39, y=26
+2019-01-08 21:21:31,159:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:31,159:DEBUG:cursor x=39, y=26
+2019-01-08 21:21:31,159:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:21:32,640:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:32,640:DEBUG:cursor x=34, y=25
+2019-01-08 21:21:32,640:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 21:21:32,852:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:32,852:DEBUG:cursor x=35, y=25
+2019-01-08 21:21:32,852:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:21:33,029:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:33,029:DEBUG:cursor x=36, y=25
+2019-01-08 21:21:33,030:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:21:33,216:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:33,216:DEBUG:cursor x=37, y=25
+2019-01-08 21:21:33,216:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:21:33,394:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:33,395:DEBUG:cursor x=38, y=25
+2019-01-08 21:21:33,395:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:21:33,990:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:33,990:DEBUG:cursor x=39, y=25
+2019-01-08 21:21:33,992:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 21:21:34,875:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:21:34,875:DEBUG:cursor x=40, y=25
+2019-01-08 21:21:34,875:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:21:35,051:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:21:35,051:DEBUG:cursor x=40, y=24
+2019-01-08 21:21:35,051:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 21:21:36,376:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:36,376:DEBUG:cursor x=40, y=45
+2019-01-08 21:21:36,376:DEBUG:after moving, cursor x=41, y=45
+2019-01-08 21:21:36,869:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:36,869:DEBUG:cursor x=41, y=45
+2019-01-08 21:21:36,869:DEBUG:after moving, cursor x=42, y=45
+2019-01-08 21:21:36,899:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:21:36,899:DEBUG:cursor x=42, y=45
+2019-01-08 21:21:36,899:DEBUG:after moving, cursor x=43, y=45
+2019-01-08 21:22:59,065:DEBUG:Initialized starting game variables
+2019-01-08 21:22:59,065:DEBUG:Starting game loop
+2019-01-08 21:23:01,684:DEBUG:changed to build mode
+2019-01-08 21:23:14,880:DEBUG:Initialized starting game variables
+2019-01-08 21:23:14,880:DEBUG:Starting game loop
+2019-01-08 21:23:15,825:DEBUG:changed to build mode
+2019-01-08 21:23:16,202:DEBUG:switched out of mode
+2019-01-08 21:23:17,917:DEBUG:changed to build mode
+2019-01-08 21:23:18,486:DEBUG:switched out of mode
+2019-01-08 21:23:18,972:DEBUG:changed to build mode
+2019-01-08 21:23:19,436:DEBUG:switched out of mode
+2019-01-08 21:23:19,894:DEBUG:changed to build mode
+2019-01-08 21:23:20,296:DEBUG:switched out of mode
+2019-01-08 21:24:12,438:DEBUG:Initialized starting game variables
+2019-01-08 21:24:12,438:DEBUG:Starting game loop
+2019-01-08 21:24:14,844:DEBUG:changed to build mode
+2019-01-08 21:24:15,647:DEBUG:switched out of mode
+2019-01-08 21:24:18,634:DEBUG:changed to build mode
+2019-01-08 21:24:21,360:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:24:21,360:DEBUG:cursor x=40, y=25
+2019-01-08 21:24:21,362:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:24:21,563:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:24:21,563:DEBUG:cursor x=40, y=24
+2019-01-08 21:24:21,563:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:24:21,745:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:24:21,745:DEBUG:cursor x=40, y=23
+2019-01-08 21:24:21,745:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:24:22,522:DEBUG:switched out of mode
+2019-01-08 21:24:23,377:DEBUG:changed to build mode
+2019-01-08 21:26:28,437:DEBUG:Initialized starting game variables
+2019-01-08 21:26:28,437:DEBUG:Starting game loop
+2019-01-08 21:26:29,623:DEBUG:changed to build mode
+2019-01-08 21:26:31,580:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:26:31,580:DEBUG:cursor x=40, y=25
+2019-01-08 21:26:31,580:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:26:31,760:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:26:31,760:DEBUG:cursor x=39, y=25
+2019-01-08 21:26:31,760:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:26:31,956:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:26:31,956:DEBUG:cursor x=38, y=25
+2019-01-08 21:26:31,956:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:26:32,122:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:26:32,123:DEBUG:cursor x=37, y=25
+2019-01-08 21:26:32,123:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:26:32,744:DEBUG:switched out of mode
+2019-01-08 21:26:34,030:DEBUG:changed to build mode
+2019-01-08 21:26:36,382:DEBUG:switched out of mode
+2019-01-08 21:29:20,313:DEBUG:Initialized starting game variables
+2019-01-08 21:29:20,313:DEBUG:Starting game loop
+2019-01-08 21:29:22,814:DEBUG:changed to build mode
+2019-01-08 21:29:23,483:DEBUG:switched out of mode
+2019-01-08 21:29:23,884:DEBUG:changed to build mode
+2019-01-08 21:29:24,414:DEBUG:switched out of mode
+2019-01-08 21:29:24,738:DEBUG:changed to build mode
+2019-01-08 21:29:54,917:DEBUG:Initialized starting game variables
+2019-01-08 21:29:54,917:DEBUG:Starting game loop
+2019-01-08 21:29:56,009:DEBUG:changed to build mode
+2019-01-08 21:29:56,477:DEBUG:switched out of mode
+2019-01-08 21:29:56,817:DEBUG:changed to build mode
+2019-01-08 21:29:57,214:DEBUG:switched out of mode
+2019-01-08 21:29:59,201:DEBUG:changed to build mode
+2019-01-08 21:29:59,810:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:29:59,810:DEBUG:cursor x=40, y=25
+2019-01-08 21:29:59,810:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:30:00,023:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:00,023:DEBUG:cursor x=39, y=25
+2019-01-08 21:30:00,023:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:30:00,233:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:00,233:DEBUG:cursor x=38, y=25
+2019-01-08 21:30:00,233:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:30:00,864:DEBUG:switched out of mode
+2019-01-08 21:30:02,836:DEBUG:changed to build mode
+2019-01-08 21:30:03,475:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:03,475:DEBUG:cursor x=37, y=25
+2019-01-08 21:30:03,475:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:30:03,675:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:03,675:DEBUG:cursor x=38, y=25
+2019-01-08 21:30:03,675:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:30:03,868:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:03,868:DEBUG:cursor x=39, y=25
+2019-01-08 21:30:03,868:DEBUG:after moving, cursor x=40, y=25
+2019-01-08 21:30:04,285:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:30:04,285:DEBUG:cursor x=40, y=25
+2019-01-08 21:30:04,285:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:30:04,458:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:30:04,458:DEBUG:cursor x=40, y=24
+2019-01-08 21:30:04,458:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:30:04,774:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:30:04,774:DEBUG:cursor x=40, y=23
+2019-01-08 21:30:04,774:DEBUG:after moving, cursor x=40, y=22
+2019-01-08 21:30:05,315:DEBUG:switched out of mode
+2019-01-08 21:30:05,527:DEBUG:changed to build mode
+2019-01-08 21:30:06,145:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:30:06,145:DEBUG:cursor x=40, y=22
+2019-01-08 21:30:06,145:DEBUG:after moving, cursor x=40, y=23
+2019-01-08 21:30:06,297:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:30:06,297:DEBUG:cursor x=40, y=23
+2019-01-08 21:30:06,297:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:30:06,628:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:06,628:DEBUG:cursor x=40, y=24
+2019-01-08 21:30:06,629:DEBUG:after moving, cursor x=39, y=24
+2019-01-08 21:30:06,706:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:30:06,707:DEBUG:cursor x=39, y=24
+2019-01-08 21:30:06,707:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:30:06,933:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:30:06,933:DEBUG:cursor x=39, y=25
+2019-01-08 21:30:06,933:DEBUG:after moving, cursor x=39, y=26
+2019-01-08 21:30:07,122:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:07,122:DEBUG:cursor x=39, y=26
+2019-01-08 21:30:07,122:DEBUG:after moving, cursor x=38, y=26
+2019-01-08 21:30:07,412:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:30:07,412:DEBUG:cursor x=38, y=26
+2019-01-08 21:30:07,412:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:30:07,591:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:07,591:DEBUG:cursor x=38, y=25
+2019-01-08 21:30:07,591:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:30:07,792:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:07,792:DEBUG:cursor x=37, y=25
+2019-01-08 21:30:07,792:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:30:08,030:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:08,030:DEBUG:cursor x=36, y=25
+2019-01-08 21:30:08,030:DEBUG:after moving, cursor x=35, y=25
+2019-01-08 21:30:08,409:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:08,409:DEBUG:cursor x=35, y=25
+2019-01-08 21:30:08,409:DEBUG:after moving, cursor x=36, y=25
+2019-01-08 21:30:08,583:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:08,583:DEBUG:cursor x=36, y=25
+2019-01-08 21:30:08,583:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:30:08,753:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:08,754:DEBUG:cursor x=37, y=25
+2019-01-08 21:30:08,754:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:30:08,932:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:30:08,932:DEBUG:cursor x=38, y=25
+2019-01-08 21:30:08,932:DEBUG:after moving, cursor x=39, y=25
+2019-01-08 21:30:09,297:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:09,297:DEBUG:cursor x=39, y=25
+2019-01-08 21:30:09,297:DEBUG:after moving, cursor x=38, y=25
+2019-01-08 21:30:09,530:DEBUG:moved cursor -1 x, 0 y units
+2019-01-08 21:30:09,530:DEBUG:cursor x=38, y=25
+2019-01-08 21:30:09,530:DEBUG:after moving, cursor x=37, y=25
+2019-01-08 21:30:10,004:DEBUG:switched out of mode
+2019-01-08 21:38:41,798:DEBUG:Initialized starting game variables
+2019-01-08 21:38:41,798:DEBUG:Starting game loop
+2019-01-08 21:38:47,811:DEBUG:changed to build mode
+2019-01-08 21:38:50,079:DEBUG:moved cursor 0 x, -1 y units
+2019-01-08 21:38:50,080:DEBUG:cursor x=40, y=25
+2019-01-08 21:38:50,080:DEBUG:after moving, cursor x=40, y=24
+2019-01-08 21:38:50,204:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,204:DEBUG:cursor x=40, y=24
+2019-01-08 21:38:50,204:DEBUG:after moving, cursor x=41, y=24
+2019-01-08 21:38:50,401:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,402:DEBUG:cursor x=41, y=24
+2019-01-08 21:38:50,402:DEBUG:after moving, cursor x=42, y=24
+2019-01-08 21:38:50,898:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,898:DEBUG:cursor x=42, y=24
+2019-01-08 21:38:50,898:DEBUG:after moving, cursor x=43, y=24
+2019-01-08 21:38:50,931:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,931:DEBUG:cursor x=43, y=24
+2019-01-08 21:38:50,931:DEBUG:after moving, cursor x=44, y=24
+2019-01-08 21:38:50,963:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,963:DEBUG:cursor x=44, y=24
+2019-01-08 21:38:50,963:DEBUG:after moving, cursor x=45, y=24
+2019-01-08 21:38:50,995:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:50,995:DEBUG:cursor x=45, y=24
+2019-01-08 21:38:50,995:DEBUG:after moving, cursor x=46, y=24
+2019-01-08 21:38:51,027:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,028:DEBUG:cursor x=46, y=24
+2019-01-08 21:38:51,028:DEBUG:after moving, cursor x=47, y=24
+2019-01-08 21:38:51,049:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,050:DEBUG:cursor x=47, y=24
+2019-01-08 21:38:51,050:DEBUG:after moving, cursor x=48, y=24
+2019-01-08 21:38:51,083:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,083:DEBUG:cursor x=48, y=24
+2019-01-08 21:38:51,083:DEBUG:after moving, cursor x=49, y=24
+2019-01-08 21:38:51,115:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,115:DEBUG:cursor x=49, y=24
+2019-01-08 21:38:51,115:DEBUG:after moving, cursor x=50, y=24
+2019-01-08 21:38:51,148:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,148:DEBUG:cursor x=50, y=24
+2019-01-08 21:38:51,148:DEBUG:after moving, cursor x=51, y=24
+2019-01-08 21:38:51,170:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,170:DEBUG:cursor x=51, y=24
+2019-01-08 21:38:51,170:DEBUG:after moving, cursor x=52, y=24
+2019-01-08 21:38:51,203:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,203:DEBUG:cursor x=52, y=24
+2019-01-08 21:38:51,203:DEBUG:after moving, cursor x=53, y=24
+2019-01-08 21:38:51,235:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,235:DEBUG:cursor x=53, y=24
+2019-01-08 21:38:51,235:DEBUG:after moving, cursor x=54, y=24
+2019-01-08 21:38:51,268:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,268:DEBUG:cursor x=54, y=24
+2019-01-08 21:38:51,268:DEBUG:after moving, cursor x=55, y=24
+2019-01-08 21:38:51,300:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,300:DEBUG:cursor x=55, y=24
+2019-01-08 21:38:51,300:DEBUG:after moving, cursor x=56, y=24
+2019-01-08 21:38:51,322:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,322:DEBUG:cursor x=56, y=24
+2019-01-08 21:38:51,322:DEBUG:after moving, cursor x=57, y=24
+2019-01-08 21:38:51,355:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,355:DEBUG:cursor x=57, y=24
+2019-01-08 21:38:51,355:DEBUG:after moving, cursor x=58, y=24
+2019-01-08 21:38:51,387:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,388:DEBUG:cursor x=58, y=24
+2019-01-08 21:38:51,388:DEBUG:after moving, cursor x=59, y=24
+2019-01-08 21:38:51,420:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,421:DEBUG:cursor x=59, y=24
+2019-01-08 21:38:51,421:DEBUG:after moving, cursor x=60, y=24
+2019-01-08 21:38:51,443:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,443:DEBUG:cursor x=60, y=24
+2019-01-08 21:38:51,443:DEBUG:after moving, cursor x=61, y=24
+2019-01-08 21:38:51,476:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,476:DEBUG:cursor x=61, y=24
+2019-01-08 21:38:51,476:DEBUG:after moving, cursor x=62, y=24
+2019-01-08 21:38:51,509:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,509:DEBUG:cursor x=62, y=24
+2019-01-08 21:38:51,509:DEBUG:after moving, cursor x=63, y=24
+2019-01-08 21:38:51,541:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,541:DEBUG:cursor x=63, y=24
+2019-01-08 21:38:51,541:DEBUG:after moving, cursor x=64, y=24
+2019-01-08 21:38:51,563:DEBUG:moved cursor 1 x, 0 y units
+2019-01-08 21:38:51,563:DEBUG:cursor x=64, y=24
+2019-01-08 21:38:51,563:DEBUG:after moving, cursor x=65, y=24
+2019-01-08 21:38:51,596:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:38:51,596:DEBUG:cursor x=65, y=24
+2019-01-08 21:38:51,596:DEBUG:after moving, cursor x=65, y=25
+2019-01-08 21:38:51,775:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:38:51,775:DEBUG:cursor x=65, y=25
+2019-01-08 21:38:51,775:DEBUG:after moving, cursor x=65, y=26
+2019-01-08 21:38:51,952:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:38:51,952:DEBUG:cursor x=65, y=26
+2019-01-08 21:38:51,952:DEBUG:after moving, cursor x=65, y=27
+2019-01-08 21:38:52,129:DEBUG:moved cursor 0 x, 1 y units
+2019-01-08 21:38:52,129:DEBUG:cursor x=65, y=27
+2019-01-08 21:38:52,129:DEBUG:after moving, cursor x=65, y=28
+2019-01-08 21:49:49,481:DEBUG:Initialized starting game variables
+2019-01-08 21:49:49,481:DEBUG:Starting game loop
+2019-01-08 21:49:51,558:DEBUG:changed to build mode
+2019-01-08 21:49:57,066:DEBUG:cursor x=40, y=24
+2019-01-08 21:49:57,448:DEBUG:cursor x=40, y=23
+2019-01-08 21:51:20,256:DEBUG:Initialized starting game variables
+2019-01-08 21:51:20,256:DEBUG:Starting game loop
+2019-01-08 21:51:22,227:DEBUG:changed to build mode
+2019-01-08 21:51:22,907:DEBUG:selected an object in build mode
+2019-01-08 21:51:22,907:DEBUG:stopped selecting an object in build mode
+2019-01-08 21:51:25,593:DEBUG:selected an object in build mode
+2019-01-08 21:51:25,593:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:05:19,394:DEBUG:Initialized starting game variables
+2019-01-08 22:05:19,395:DEBUG:Starting game loop
+2019-01-08 22:07:17,657:DEBUG:Initialized starting game variables
+2019-01-08 22:07:17,657:DEBUG:Starting game loop
+2019-01-08 22:07:19,410:DEBUG:changed to build mode
+2019-01-08 22:07:20,288:DEBUG:selected an object in build mode
+2019-01-08 22:07:20,288:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:07:34,784:DEBUG:Initialized starting game variables
+2019-01-08 22:07:34,784:DEBUG:Starting game loop
+2019-01-08 22:07:36,176:DEBUG:changed to build mode
+2019-01-08 22:07:37,061:DEBUG:selected an object in build mode
+2019-01-08 22:07:37,061:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:08:02,267:DEBUG:Initialized starting game variables
+2019-01-08 22:08:02,267:DEBUG:Starting game loop
+2019-01-08 22:08:03,740:DEBUG:changed to build mode
+2019-01-08 22:08:04,770:DEBUG:selected an object in build mode
+2019-01-08 22:08:04,770:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:08:11,135:DEBUG:cursor x=40, y=24
+2019-01-08 22:08:11,329:DEBUG:cursor x=40, y=23
+2019-01-08 22:08:11,543:DEBUG:cursor x=40, y=22
+2019-01-08 22:08:11,843:DEBUG:cursor x=41, y=22
+2019-01-08 22:08:12,020:DEBUG:cursor x=42, y=22
+2019-01-08 22:08:12,169:DEBUG:cursor x=43, y=22
+2019-01-08 22:08:12,623:DEBUG:selected an object in build mode
+2019-01-08 22:08:12,623:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:09:04,747:DEBUG:Initialized starting game variables
+2019-01-08 22:09:04,748:DEBUG:Starting game loop
+2019-01-08 22:09:06,239:DEBUG:changed to build mode
+2019-01-08 22:09:06,840:DEBUG:selected an object in build mode
+2019-01-08 22:09:06,840:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:09:08,212:DEBUG:cursor x=41, y=25
+2019-01-08 22:09:08,566:DEBUG:cursor x=42, y=25
+2019-01-08 22:09:08,869:DEBUG:cursor x=43, y=25
+2019-01-08 22:09:09,230:DEBUG:cursor x=43, y=24
+2019-01-08 22:09:09,422:DEBUG:cursor x=43, y=23
+2019-01-08 22:09:09,621:DEBUG:cursor x=43, y=22
+2019-01-08 22:09:10,589:DEBUG:selected an object in build mode
+2019-01-08 22:09:10,589:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:10:10,596:DEBUG:Initialized starting game variables
+2019-01-08 22:10:10,596:DEBUG:Starting game loop
+2019-01-08 22:10:12,038:DEBUG:changed to build mode
+2019-01-08 22:10:13,436:DEBUG:selected an object in build mode
+2019-01-08 22:10:13,436:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:10:14,528:DEBUG:cursor x=41, y=25
+2019-01-08 22:10:14,814:DEBUG:cursor x=42, y=25
+2019-01-08 22:10:15,061:DEBUG:cursor x=43, y=25
+2019-01-08 22:10:15,340:DEBUG:cursor x=43, y=24
+2019-01-08 22:10:15,550:DEBUG:cursor x=43, y=23
+2019-01-08 22:10:16,102:DEBUG:selected an object in build mode
+2019-01-08 22:10:16,102:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:13:34,338:DEBUG:Initialized starting game variables
+2019-01-08 22:13:34,338:DEBUG:Starting game loop
+2019-01-08 22:13:35,768:DEBUG:changed to build mode
+2019-01-08 22:13:37,178:DEBUG:selected an object in build mode
+2019-01-08 22:13:37,178:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:13:37,732:DEBUG:cursor x=41, y=25
+2019-01-08 22:13:37,911:DEBUG:cursor x=42, y=25
+2019-01-08 22:13:38,183:DEBUG:cursor x=43, y=25
+2019-01-08 22:13:38,416:DEBUG:cursor x=44, y=25
+2019-01-08 22:13:38,727:DEBUG:cursor x=44, y=24
+2019-01-08 22:13:38,909:DEBUG:cursor x=44, y=23
+2019-01-08 22:13:39,122:DEBUG:cursor x=44, y=22
+2019-01-08 22:13:39,282:DEBUG:cursor x=44, y=21
+2019-01-08 22:13:39,816:DEBUG:selected an object in build mode
+2019-01-08 22:13:39,816:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:17:01,912:DEBUG:Initialized starting game variables
+2019-01-08 22:17:01,912:DEBUG:Starting game loop
+2019-01-08 22:17:03,182:DEBUG:changed to build mode
+2019-01-08 22:17:04,350:DEBUG:selected an object in build mode
+2019-01-08 22:17:04,350:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:17:05,668:DEBUG:cursor x=41, y=25
+2019-01-08 22:17:05,972:DEBUG:cursor x=42, y=25
+2019-01-08 22:17:06,304:DEBUG:cursor x=42, y=24
+2019-01-08 22:17:06,480:DEBUG:cursor x=42, y=23
+2019-01-08 22:17:06,982:DEBUG:selected an object in build mode
+2019-01-08 22:17:06,982:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:18:10,086:DEBUG:Initialized starting game variables
+2019-01-08 22:18:10,086:DEBUG:Starting game loop
+2019-01-08 22:18:11,743:DEBUG:changed to build mode
+2019-01-08 22:18:12,146:DEBUG:selected an object in build mode
+2019-01-08 22:18:12,146:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:18:13,441:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:13,441:DEBUG:cursor x=41, y=25
+2019-01-08 22:18:13,760:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:13,760:DEBUG:cursor x=42, y=25
+2019-01-08 22:18:14,015:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:14,015:DEBUG:cursor x=43, y=25
+2019-01-08 22:18:14,412:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:14,412:DEBUG:cursor x=43, y=24
+2019-01-08 22:18:14,643:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:14,643:DEBUG:cursor x=43, y=23
+2019-01-08 22:18:14,855:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:18:14,856:DEBUG:cursor x=43, y=22
+2019-01-08 22:18:15,234:DEBUG:selected an object in build mode
+2019-01-08 22:18:15,234:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:20:04,757:DEBUG:Initialized starting game variables
+2019-01-08 22:20:04,757:DEBUG:Starting game loop
+2019-01-08 22:20:06,263:DEBUG:changed to build mode
+2019-01-08 22:20:07,581:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:07,581:DEBUG:cursor x=40, y=24
+2019-01-08 22:20:07,821:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:07,821:DEBUG:cursor x=40, y=23
+2019-01-08 22:20:08,031:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:08,031:DEBUG:cursor x=40, y=22
+2019-01-08 22:20:08,272:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:08,272:DEBUG:cursor x=40, y=21
+2019-01-08 22:20:08,526:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:08,527:DEBUG:cursor x=41, y=21
+2019-01-08 22:20:08,727:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:08,727:DEBUG:cursor x=42, y=21
+2019-01-08 22:20:08,951:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:08,951:DEBUG:cursor x=43, y=21
+2019-01-08 22:20:09,153:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:20:09,154:DEBUG:cursor x=44, y=21
+2019-01-08 22:20:58,719:DEBUG:Initialized starting game variables
+2019-01-08 22:20:58,719:DEBUG:Starting game loop
+2019-01-08 22:20:59,913:DEBUG:changed to build mode
+2019-01-08 22:21:01,708:DEBUG:selected an object in build mode
+2019-01-08 22:21:01,708:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:21:02,286:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:02,287:DEBUG:cursor x=40, y=24
+2019-01-08 22:21:02,486:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:02,487:DEBUG:cursor x=40, y=23
+2019-01-08 22:21:02,712:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:02,712:DEBUG:cursor x=40, y=22
+2019-01-08 22:21:03,046:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:03,046:DEBUG:cursor x=41, y=22
+2019-01-08 22:21:03,229:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:03,229:DEBUG:cursor x=42, y=22
+2019-01-08 22:21:03,408:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:03,408:DEBUG:cursor x=43, y=22
+2019-01-08 22:21:04,081:DEBUG:selected an object in build mode
+2019-01-08 22:21:04,082:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:21:05,182:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:05,182:DEBUG:cursor x=43, y=21
+2019-01-08 22:21:05,376:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:05,376:DEBUG:cursor x=43, y=20
+2019-01-08 22:21:05,547:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:21:05,547:DEBUG:cursor x=43, y=19
+2019-01-08 22:21:38,917:DEBUG:Initialized starting game variables
+2019-01-08 22:21:38,917:DEBUG:Starting game loop
+2019-01-08 22:21:40,260:DEBUG:changed to build mode
+2019-01-08 22:21:41,750:DEBUG:selected an object in build mode
+2019-01-08 22:21:41,750:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:26:54,904:DEBUG:Initialized starting game variables
+2019-01-08 22:26:54,904:DEBUG:Starting game loop
+2019-01-08 22:26:56,362:DEBUG:changed to build mode
+2019-01-08 22:29:12,341:DEBUG:Initialized starting game variables
+2019-01-08 22:29:12,341:DEBUG:Starting game loop
+2019-01-08 22:29:13,010:DEBUG:changed to build mode
+2019-01-08 22:29:31,034:DEBUG:Initialized starting game variables
+2019-01-08 22:29:31,034:DEBUG:Starting game loop
+2019-01-08 22:29:32,116:DEBUG:changed to build mode
+2019-01-08 22:29:33,835:DEBUG:selected an object in build mode
+2019-01-08 22:29:33,835:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:38,471:DEBUG:selected an object in build mode
+2019-01-08 22:29:38,471:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:39,225:DEBUG:selected an object in build mode
+2019-01-08 22:29:39,225:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:39,844:DEBUG:selected an object in build mode
+2019-01-08 22:29:39,844:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:39,858:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:29:39,858:DEBUG:cursor x=41, y=25
+2019-01-08 22:29:40,052:DEBUG:selected an object in build mode
+2019-01-08 22:29:40,052:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:40,315:DEBUG:selected an object in build mode
+2019-01-08 22:29:40,315:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:29:40,575:DEBUG:selected an object in build mode
+2019-01-08 22:29:40,575:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:33:10,067:DEBUG:Initialized starting game variables
+2019-01-08 22:33:10,067:DEBUG:Starting game loop
+2019-01-08 22:33:11,397:DEBUG:changed to build mode
+2019-01-08 22:44:32,400:DEBUG:Initialized starting game variables
+2019-01-08 22:44:32,400:DEBUG:Starting game loop
+2019-01-08 22:44:33,915:DEBUG:changed to build mode
+2019-01-08 22:44:49,937:DEBUG:Initialized starting game variables
+2019-01-08 22:44:49,937:DEBUG:Starting game loop
+2019-01-08 22:44:50,857:DEBUG:changed to build mode
+2019-01-08 22:44:57,585:DEBUG:selected an object in build mode
+2019-01-08 22:44:57,585:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:45:28,546:DEBUG:Initialized starting game variables
+2019-01-08 22:45:28,546:DEBUG:Starting game loop
+2019-01-08 22:45:29,933:DEBUG:changed to build mode
+2019-01-08 22:46:13,264:DEBUG:Initialized starting game variables
+2019-01-08 22:46:13,264:DEBUG:Starting game loop
+2019-01-08 22:46:14,657:DEBUG:changed to build mode
+2019-01-08 22:47:01,881:DEBUG:Initialized starting game variables
+2019-01-08 22:47:01,881:DEBUG:Starting game loop
+2019-01-08 22:47:44,990:DEBUG:Initialized starting game variables
+2019-01-08 22:47:44,990:DEBUG:Starting game loop
+2019-01-08 22:47:46,331:DEBUG:changed to build mode
+2019-01-08 22:47:47,095:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,096:DEBUG:cursor x=40, y=24
+2019-01-08 22:47:47,285:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,285:DEBUG:cursor x=40, y=23
+2019-01-08 22:47:47,464:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,464:DEBUG:cursor x=40, y=22
+2019-01-08 22:47:47,645:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,645:DEBUG:cursor x=41, y=22
+2019-01-08 22:47:47,741:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,741:DEBUG:cursor x=42, y=22
+2019-01-08 22:47:47,952:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:47,952:DEBUG:cursor x=43, y=22
+2019-01-08 22:47:48,213:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:48,213:DEBUG:cursor x=43, y=23
+2019-01-08 22:47:48,434:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:47:48,434:DEBUG:cursor x=43, y=24
+2019-01-08 22:47:49,257:DEBUG:selected an object in build mode
+2019-01-08 22:47:50,698:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:15,349:DEBUG:Initialized starting game variables
+2019-01-08 22:48:15,349:DEBUG:Starting game loop
+2019-01-08 22:48:16,672:DEBUG:changed to build mode
+2019-01-08 22:48:17,051:DEBUG:selected an object in build mode
+2019-01-08 22:48:18,032:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:48,557:DEBUG:Initialized starting game variables
+2019-01-08 22:48:48,557:DEBUG:Starting game loop
+2019-01-08 22:48:49,705:DEBUG:changed to build mode
+2019-01-08 22:48:51,280:DEBUG:selected an object in build mode
+2019-01-08 22:48:51,752:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:51,752:DEBUG:changed tiles to be selected
+2019-01-08 22:48:51,752:DEBUG:called select rectangle
+2019-01-08 22:48:51,752:DEBUG:cursor x=40, y=24
+2019-01-08 22:48:52,102:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:52,102:DEBUG:changed tiles to be selected
+2019-01-08 22:48:52,102:DEBUG:called select rectangle
+2019-01-08 22:48:52,102:DEBUG:cursor x=40, y=23
+2019-01-08 22:48:52,398:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:52,398:DEBUG:changed tiles to be selected
+2019-01-08 22:48:52,400:DEBUG:called select rectangle
+2019-01-08 22:48:52,400:DEBUG:cursor x=41, y=23
+2019-01-08 22:48:52,633:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:48:52,633:DEBUG:changed tiles to be selected
+2019-01-08 22:48:52,633:DEBUG:called select rectangle
+2019-01-08 22:48:52,633:DEBUG:cursor x=42, y=23
+2019-01-08 22:48:53,200:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:51:32,102:DEBUG:Initialized starting game variables
+2019-01-08 22:51:32,102:DEBUG:Starting game loop
+2019-01-08 22:51:33,417:DEBUG:changed to build mode
+2019-01-08 22:51:34,461:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:51:34,462:DEBUG:cursor x=40, y=24
+2019-01-08 22:51:34,614:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:51:34,614:DEBUG:cursor x=40, y=23
+2019-01-08 22:51:34,794:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:51:34,794:DEBUG:cursor x=41, y=23
+2019-01-08 22:51:35,263:DEBUG:selected an object in build mode
+2019-01-08 22:51:35,443:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:35,443:DEBUG:changed tiles to be selected
+2019-01-08 22:51:35,443:DEBUG:called select rectangle
+2019-01-08 22:51:35,443:DEBUG:cursor x=41, y=22
+2019-01-08 22:51:35,612:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:35,612:DEBUG:changed tiles to be selected
+2019-01-08 22:51:35,612:DEBUG:called select rectangle
+2019-01-08 22:51:35,612:DEBUG:cursor x=41, y=21
+2019-01-08 22:51:35,792:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:35,793:DEBUG:changed tiles to be selected
+2019-01-08 22:51:35,793:DEBUG:called select rectangle
+2019-01-08 22:51:35,793:DEBUG:cursor x=41, y=20
+2019-01-08 22:51:35,943:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:35,943:DEBUG:changed tiles to be selected
+2019-01-08 22:51:35,943:DEBUG:called select rectangle
+2019-01-08 22:51:35,943:DEBUG:cursor x=41, y=19
+2019-01-08 22:51:36,213:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:36,214:DEBUG:changed tiles to be selected
+2019-01-08 22:51:36,214:DEBUG:called select rectangle
+2019-01-08 22:51:36,214:DEBUG:cursor x=40, y=19
+2019-01-08 22:51:36,393:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:36,393:DEBUG:changed tiles to be selected
+2019-01-08 22:51:36,393:DEBUG:called select rectangle
+2019-01-08 22:51:36,393:DEBUG:cursor x=39, y=19
+2019-01-08 22:51:36,580:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:36,581:DEBUG:changed tiles to be selected
+2019-01-08 22:51:36,581:DEBUG:called select rectangle
+2019-01-08 22:51:36,581:DEBUG:cursor x=38, y=19
+2019-01-08 22:51:36,763:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:36,763:DEBUG:changed tiles to be selected
+2019-01-08 22:51:36,763:DEBUG:called select rectangle
+2019-01-08 22:51:36,763:DEBUG:cursor x=37, y=19
+2019-01-08 22:51:36,941:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:36,941:DEBUG:changed tiles to be selected
+2019-01-08 22:51:36,941:DEBUG:called select rectangle
+2019-01-08 22:51:36,941:DEBUG:cursor x=36, y=19
+2019-01-08 22:51:38,936:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:38,936:DEBUG:changed tiles to be selected
+2019-01-08 22:51:38,936:DEBUG:called select rectangle
+2019-01-08 22:51:38,936:DEBUG:cursor x=35, y=19
+2019-01-08 22:51:39,169:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:39,169:DEBUG:changed tiles to be selected
+2019-01-08 22:51:39,169:DEBUG:called select rectangle
+2019-01-08 22:51:39,169:DEBUG:cursor x=34, y=19
+2019-01-08 22:51:39,361:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:39,361:DEBUG:changed tiles to be selected
+2019-01-08 22:51:39,361:DEBUG:called select rectangle
+2019-01-08 22:51:39,361:DEBUG:cursor x=33, y=19
+2019-01-08 22:51:39,552:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:39,552:DEBUG:changed tiles to be selected
+2019-01-08 22:51:39,552:DEBUG:called select rectangle
+2019-01-08 22:51:39,552:DEBUG:cursor x=32, y=19
+2019-01-08 22:51:39,734:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:39,734:DEBUG:changed tiles to be selected
+2019-01-08 22:51:39,734:DEBUG:called select rectangle
+2019-01-08 22:51:39,734:DEBUG:cursor x=31, y=19
+2019-01-08 22:51:39,937:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:39,937:DEBUG:changed tiles to be selected
+2019-01-08 22:51:39,937:DEBUG:called select rectangle
+2019-01-08 22:51:39,937:DEBUG:cursor x=30, y=19
+2019-01-08 22:51:40,170:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:40,170:DEBUG:changed tiles to be selected
+2019-01-08 22:51:40,170:DEBUG:called select rectangle
+2019-01-08 22:51:40,170:DEBUG:cursor x=29, y=19
+2019-01-08 22:51:40,414:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:40,414:DEBUG:changed tiles to be selected
+2019-01-08 22:51:40,414:DEBUG:called select rectangle
+2019-01-08 22:51:40,414:DEBUG:cursor x=28, y=19
+2019-01-08 22:51:40,928:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:40,929:DEBUG:changed tiles to be selected
+2019-01-08 22:51:40,929:DEBUG:called select rectangle
+2019-01-08 22:51:40,929:DEBUG:cursor x=28, y=20
+2019-01-08 22:51:41,106:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:41,106:DEBUG:changed tiles to be selected
+2019-01-08 22:51:41,107:DEBUG:called select rectangle
+2019-01-08 22:51:41,107:DEBUG:cursor x=28, y=21
+2019-01-08 22:51:41,282:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:41,282:DEBUG:changed tiles to be selected
+2019-01-08 22:51:41,282:DEBUG:called select rectangle
+2019-01-08 22:51:41,282:DEBUG:cursor x=28, y=22
+2019-01-08 22:51:41,451:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:41,451:DEBUG:changed tiles to be selected
+2019-01-08 22:51:41,452:DEBUG:called select rectangle
+2019-01-08 22:51:41,452:DEBUG:cursor x=28, y=23
+2019-01-08 22:51:42,741:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:42,742:DEBUG:changed tiles to be selected
+2019-01-08 22:51:42,742:DEBUG:called select rectangle
+2019-01-08 22:51:42,742:DEBUG:cursor x=28, y=22
+2019-01-08 22:51:42,900:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:42,900:DEBUG:changed tiles to be selected
+2019-01-08 22:51:42,900:DEBUG:called select rectangle
+2019-01-08 22:51:42,900:DEBUG:cursor x=28, y=21
+2019-01-08 22:51:43,098:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:43,098:DEBUG:changed tiles to be selected
+2019-01-08 22:51:43,098:DEBUG:called select rectangle
+2019-01-08 22:51:43,098:DEBUG:cursor x=28, y=20
+2019-01-08 22:51:43,268:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:51:43,268:DEBUG:changed tiles to be selected
+2019-01-08 22:51:43,268:DEBUG:called select rectangle
+2019-01-08 22:51:43,268:DEBUG:cursor x=28, y=19
+2019-01-08 22:51:44,149:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:52:08,478:DEBUG:Initialized starting game variables
+2019-01-08 22:52:08,478:DEBUG:Starting game loop
+2019-01-08 22:52:09,550:DEBUG:changed to build mode
+2019-01-08 22:52:10,097:DEBUG:selected an object in build mode
+2019-01-08 22:52:10,945:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:52:10,946:DEBUG:changed tiles to be selected
+2019-01-08 22:52:10,946:DEBUG:called select rectangle
+2019-01-08 22:52:10,946:DEBUG:cursor x=41, y=25
+2019-01-08 22:52:11,389:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:52:11,389:DEBUG:changed tiles to be selected
+2019-01-08 22:52:11,389:DEBUG:called select rectangle
+2019-01-08 22:52:11,389:DEBUG:cursor x=41, y=24
+2019-01-08 22:52:11,616:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:52:11,616:DEBUG:changed tiles to be selected
+2019-01-08 22:52:11,616:DEBUG:called select rectangle
+2019-01-08 22:52:11,616:DEBUG:cursor x=41, y=23
+2019-01-08 22:52:11,804:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:52:11,804:DEBUG:changed tiles to be selected
+2019-01-08 22:52:11,804:DEBUG:called select rectangle
+2019-01-08 22:52:11,804:DEBUG:cursor x=41, y=22
+2019-01-08 22:52:19,672:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:52:19,672:DEBUG:changed tiles to be selected
+2019-01-08 22:52:19,672:DEBUG:called select rectangle
+2019-01-08 22:52:19,672:DEBUG:cursor x=41, y=21
+2019-01-08 22:53:35,227:DEBUG:Initialized starting game variables
+2019-01-08 22:53:35,227:DEBUG:Starting game loop
+2019-01-08 22:57:45,190:DEBUG:Initialized starting game variables
+2019-01-08 22:57:45,190:DEBUG:Starting game loop
+2019-01-08 22:57:46,885:DEBUG:changed to build mode
+2019-01-08 22:57:47,707:DEBUG:selected an object in build mode
+2019-01-08 22:57:48,352:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:57:48,352:DEBUG:changed tiles to be selected
+2019-01-08 22:57:48,352:DEBUG:called select rectangle
+2019-01-08 22:57:48,352:DEBUG:cursor x=40, y=24
+2019-01-08 22:57:48,887:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:57:48,887:DEBUG:changed tiles to be selected
+2019-01-08 22:57:48,888:DEBUG:called select rectangle
+2019-01-08 22:57:48,888:DEBUG:cursor x=40, y=23
+2019-01-08 22:57:49,704:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:57:49,705:DEBUG:changed tiles to be selected
+2019-01-08 22:57:49,705:DEBUG:called select rectangle
+2019-01-08 22:57:49,705:DEBUG:cursor x=40, y=22
+2019-01-08 22:57:50,429:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:57:50,429:DEBUG:changed tiles to be selected
+2019-01-08 22:57:50,429:DEBUG:called select rectangle
+2019-01-08 22:57:50,429:DEBUG:cursor x=41, y=22
+2019-01-08 22:57:51,149:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:57:51,149:DEBUG:changed tiles to be selected
+2019-01-08 22:57:51,149:DEBUG:called select rectangle
+2019-01-08 22:57:51,149:DEBUG:cursor x=42, y=22
+2019-01-08 22:57:52,229:DEBUG:stopped selecting an object in build mode
+2019-01-08 22:57:52,859:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:57:52,859:DEBUG:cursor x=42, y=23
+2019-01-08 22:57:53,138:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:57:53,138:DEBUG:cursor x=42, y=24
+2019-01-08 22:57:53,365:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:57:53,365:DEBUG:cursor x=42, y=25
+2019-01-08 22:58:33,671:DEBUG:Initialized starting game variables
+2019-01-08 22:58:33,671:DEBUG:Starting game loop
+2019-01-08 22:58:34,888:DEBUG:changed to build mode
+2019-01-08 22:58:36,038:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:36,038:DEBUG:cursor x=40, y=24
+2019-01-08 22:58:36,957:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:36,957:DEBUG:cursor x=40, y=23
+2019-01-08 22:58:37,604:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:37,604:DEBUG:cursor x=40, y=22
+2019-01-08 22:58:37,876:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:37,876:DEBUG:cursor x=41, y=22
+2019-01-08 22:58:38,099:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:38,099:DEBUG:cursor x=42, y=22
+2019-01-08 22:58:38,437:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:38,437:DEBUG:cursor x=42, y=23
+2019-01-08 22:58:38,583:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:38,583:DEBUG:cursor x=42, y=24
+2019-01-08 22:58:38,759:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:38,759:DEBUG:cursor x=42, y=25
+2019-01-08 22:58:38,963:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:38,963:DEBUG:cursor x=41, y=25
+2019-01-08 22:58:39,146:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:58:39,147:DEBUG:cursor x=40, y=25
+2019-01-08 22:58:58,600:DEBUG:Initialized starting game variables
+2019-01-08 22:58:58,600:DEBUG:Starting game loop
+2019-01-08 22:58:59,806:DEBUG:changed to build mode
+2019-01-08 22:59:00,061:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:00,061:DEBUG:cursor x=40, y=24
+2019-01-08 22:59:00,366:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:00,366:DEBUG:cursor x=40, y=23
+2019-01-08 22:59:00,583:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:00,583:DEBUG:cursor x=40, y=22
+2019-01-08 22:59:00,872:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:00,872:DEBUG:cursor x=41, y=22
+2019-01-08 22:59:01,076:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:01,076:DEBUG:cursor x=42, y=22
+2019-01-08 22:59:01,267:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:01,267:DEBUG:cursor x=43, y=22
+2019-01-08 22:59:10,830:DEBUG:Initialized starting game variables
+2019-01-08 22:59:10,830:DEBUG:Starting game loop
+2019-01-08 22:59:12,002:DEBUG:changed to build mode
+2019-01-08 22:59:12,789:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:12,790:DEBUG:cursor x=40, y=24
+2019-01-08 22:59:12,799:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:12,799:DEBUG:cursor x=40, y=23
+2019-01-08 22:59:13,132:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,132:DEBUG:cursor x=40, y=22
+2019-01-08 22:59:13,142:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,142:DEBUG:cursor x=40, y=21
+2019-01-08 22:59:13,415:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,415:DEBUG:cursor x=40, y=20
+2019-01-08 22:59:13,425:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,425:DEBUG:cursor x=40, y=19
+2019-01-08 22:59:13,629:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,630:DEBUG:cursor x=40, y=18
+2019-01-08 22:59:13,640:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,640:DEBUG:cursor x=40, y=17
+2019-01-08 22:59:13,785:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,786:DEBUG:cursor x=41, y=17
+2019-01-08 22:59:13,797:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:13,797:DEBUG:cursor x=41, y=16
+2019-01-08 22:59:14,050:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,050:DEBUG:cursor x=42, y=16
+2019-01-08 22:59:14,060:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,060:DEBUG:cursor x=42, y=15
+2019-01-08 22:59:14,272:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,272:DEBUG:cursor x=43, y=15
+2019-01-08 22:59:14,284:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,284:DEBUG:cursor x=43, y=14
+2019-01-08 22:59:14,528:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,528:DEBUG:cursor x=44, y=14
+2019-01-08 22:59:14,539:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:14,540:DEBUG:cursor x=44, y=13
+2019-01-08 22:59:15,464:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:15,464:DEBUG:cursor x=45, y=13
+2019-01-08 22:59:15,474:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:15,475:DEBUG:cursor x=45, y=12
+2019-01-08 22:59:15,866:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:15,867:DEBUG:cursor x=46, y=12
+2019-01-08 22:59:15,877:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:15,878:DEBUG:cursor x=46, y=11
+2019-01-08 22:59:16,295:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:16,295:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:16,305:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:16,305:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:16,694:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:16,694:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:16,705:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:16,705:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:17,033:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,034:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:17,044:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,044:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:17,317:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,317:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:17,327:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,327:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:17,507:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,507:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:17,517:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,517:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:17,748:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,748:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:17,759:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:17,759:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,240:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,240:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,253:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,253:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,276:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,276:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,286:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,286:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,309:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,309:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,320:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,321:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,332:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,332:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,342:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,342:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,365:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,365:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,376:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,376:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,398:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,398:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,409:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,409:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,420:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,420:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,431:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,431:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,454:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,454:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,465:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,465:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,487:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,488:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,499:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,499:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,521:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,521:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,533:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,533:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,544:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,544:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,555:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,555:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,578:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,578:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,588:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,588:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,611:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,611:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,622:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,622:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,634:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,634:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,645:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,645:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,668:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,668:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,680:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,680:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,702:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,702:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,714:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,714:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:18,726:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,726:DEBUG:cursor x=47, y=11
+2019-01-08 22:59:18,737:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:18,737:DEBUG:cursor x=47, y=10
+2019-01-08 22:59:20,089:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,089:DEBUG:cursor x=47, y=9
+2019-01-08 22:59:20,099:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,100:DEBUG:cursor x=47, y=8
+2019-01-08 22:59:20,564:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,564:DEBUG:cursor x=47, y=7
+2019-01-08 22:59:20,574:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,575:DEBUG:cursor x=47, y=6
+2019-01-08 22:59:20,916:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,916:DEBUG:cursor x=47, y=5
+2019-01-08 22:59:20,926:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:20,927:DEBUG:cursor x=47, y=4
+2019-01-08 22:59:21,198:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:21,198:DEBUG:cursor x=47, y=3
+2019-01-08 22:59:21,208:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:21,208:DEBUG:cursor x=47, y=2
+2019-01-08 22:59:21,709:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:21,709:DEBUG:cursor x=47, y=1
+2019-01-08 22:59:21,719:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:21,719:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:22,200:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:22,200:DEBUG:cursor cam_x=47, cam_y=0
+2019-01-08 22:59:22,211:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:22,211:DEBUG:cursor cam_x=47, cam_y=0
+2019-01-08 22:59:22,347:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:22,347:DEBUG:cursor cam_x=47, cam_y=0
+2019-01-08 22:59:22,357:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:22,357:DEBUG:cursor cam_x=47, cam_y=0
+2019-01-08 22:59:22,713:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:22,713:DEBUG:cursor x=47, y=1
+2019-01-08 22:59:22,723:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:22,723:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:23,208:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,208:DEBUG:cursor x=47, y=1
+2019-01-08 22:59:23,219:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,219:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:23,241:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,242:DEBUG:cursor x=47, y=1
+2019-01-08 22:59:23,255:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,255:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:23,267:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,267:DEBUG:cursor x=47, y=1
+2019-01-08 22:59:23,278:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:23,278:DEBUG:cursor x=47, y=0
+2019-01-08 22:59:32,018:DEBUG:Initialized starting game variables
+2019-01-08 22:59:32,018:DEBUG:Starting game loop
+2019-01-08 22:59:33,299:DEBUG:changed to build mode
+2019-01-08 22:59:33,873:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:33,874:DEBUG:cursor x=41, y=25
+2019-01-08 22:59:34,272:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:34,272:DEBUG:cursor x=42, y=25
+2019-01-08 22:59:34,493:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:34,493:DEBUG:cursor x=43, y=25
+2019-01-08 22:59:34,683:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:34,683:DEBUG:cursor x=44, y=25
+2019-01-08 22:59:34,932:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:34,932:DEBUG:cursor x=44, y=24
+2019-01-08 22:59:35,124:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:35,124:DEBUG:cursor x=44, y=23
+2019-01-08 22:59:35,310:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:35,310:DEBUG:cursor x=44, y=22
+2019-01-08 22:59:35,507:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:35,507:DEBUG:cursor x=44, y=21
+2019-01-08 22:59:35,804:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:35,804:DEBUG:cursor x=43, y=21
+2019-01-08 22:59:36,028:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:36,028:DEBUG:cursor x=42, y=21
+2019-01-08 22:59:36,416:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:36,416:DEBUG:cursor x=41, y=21
+2019-01-08 22:59:36,627:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:36,627:DEBUG:cursor x=40, y=21
+2019-01-08 22:59:36,879:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:36,879:DEBUG:cursor x=40, y=22
+2019-01-08 22:59:37,041:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:37,041:DEBUG:cursor x=40, y=23
+2019-01-08 22:59:37,226:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:37,226:DEBUG:cursor x=40, y=24
+2019-01-08 22:59:37,377:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 22:59:37,377:DEBUG:cursor x=40, y=25
+2019-01-08 22:59:37,728:DEBUG:selected an object in build mode
+2019-01-08 22:59:38,067:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:38,067:DEBUG:changed tiles to be selected
+2019-01-08 22:59:38,067:DEBUG:called select rectangle
+2019-01-08 22:59:38,067:DEBUG:cursor x=41, y=25
+2019-01-08 22:59:38,261:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:38,261:DEBUG:changed tiles to be selected
+2019-01-08 22:59:38,261:DEBUG:called select rectangle
+2019-01-08 22:59:38,261:DEBUG:cursor x=42, y=25
+2019-01-08 22:59:38,487:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:38,487:DEBUG:changed tiles to be selected
+2019-01-08 22:59:38,487:DEBUG:called select rectangle
+2019-01-08 22:59:38,487:DEBUG:cursor x=43, y=25
+2019-01-08 22:59:38,702:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:38,702:DEBUG:changed tiles to be selected
+2019-01-08 22:59:38,703:DEBUG:called select rectangle
+2019-01-08 22:59:38,703:DEBUG:cursor x=44, y=25
+2019-01-08 22:59:38,929:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:38,929:DEBUG:changed tiles to be selected
+2019-01-08 22:59:38,929:DEBUG:called select rectangle
+2019-01-08 22:59:38,929:DEBUG:cursor x=44, y=24
+2019-01-08 22:59:39,132:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:39,132:DEBUG:changed tiles to be selected
+2019-01-08 22:59:39,132:DEBUG:called select rectangle
+2019-01-08 22:59:39,132:DEBUG:cursor x=44, y=23
+2019-01-08 22:59:39,335:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:39,336:DEBUG:changed tiles to be selected
+2019-01-08 22:59:39,336:DEBUG:called select rectangle
+2019-01-08 22:59:39,336:DEBUG:cursor x=44, y=22
+2019-01-08 22:59:39,530:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 22:59:39,530:DEBUG:changed tiles to be selected
+2019-01-08 22:59:39,530:DEBUG:called select rectangle
+2019-01-08 22:59:39,530:DEBUG:cursor x=44, y=21
+2019-01-08 23:00:11,994:DEBUG:Initialized starting game variables
+2019-01-08 23:00:11,994:DEBUG:Starting game loop
+2019-01-08 23:00:13,280:DEBUG:changed to build mode
+2019-01-08 23:00:13,962:DEBUG:selected an object in build mode
+2019-01-08 23:00:14,661:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:14,661:DEBUG:changed tiles to be selected
+2019-01-08 23:00:14,661:DEBUG:called select rectangle
+2019-01-08 23:00:14,661:DEBUG:cursor x=40, y=24
+2019-01-08 23:00:15,219:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:15,219:DEBUG:changed tiles to be selected
+2019-01-08 23:00:15,219:DEBUG:called select rectangle
+2019-01-08 23:00:15,219:DEBUG:cursor x=40, y=23
+2019-01-08 23:00:15,449:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:15,449:DEBUG:changed tiles to be selected
+2019-01-08 23:00:15,449:DEBUG:called select rectangle
+2019-01-08 23:00:15,449:DEBUG:cursor x=40, y=22
+2019-01-08 23:00:15,729:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:15,729:DEBUG:changed tiles to be selected
+2019-01-08 23:00:15,731:DEBUG:called select rectangle
+2019-01-08 23:00:15,731:DEBUG:cursor x=41, y=22
+2019-01-08 23:00:15,916:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:15,916:DEBUG:changed tiles to be selected
+2019-01-08 23:00:15,916:DEBUG:called select rectangle
+2019-01-08 23:00:15,916:DEBUG:cursor x=42, y=22
+2019-01-08 23:00:16,117:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:16,117:DEBUG:changed tiles to be selected
+2019-01-08 23:00:16,117:DEBUG:called select rectangle
+2019-01-08 23:00:16,117:DEBUG:cursor x=43, y=22
+2019-01-08 23:00:16,506:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:16,506:DEBUG:changed tiles to be selected
+2019-01-08 23:00:16,506:DEBUG:called select rectangle
+2019-01-08 23:00:16,506:DEBUG:cursor x=43, y=23
+2019-01-08 23:00:16,679:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:16,679:DEBUG:changed tiles to be selected
+2019-01-08 23:00:16,679:DEBUG:called select rectangle
+2019-01-08 23:00:16,679:DEBUG:cursor x=43, y=24
+2019-01-08 23:00:16,879:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:16,879:DEBUG:changed tiles to be selected
+2019-01-08 23:00:16,880:DEBUG:called select rectangle
+2019-01-08 23:00:16,880:DEBUG:cursor x=43, y=25
+2019-01-08 23:00:17,576:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:17,576:DEBUG:changed tiles to be selected
+2019-01-08 23:00:17,576:DEBUG:called select rectangle
+2019-01-08 23:00:17,576:DEBUG:cursor x=42, y=25
+2019-01-08 23:00:17,941:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:17,941:DEBUG:changed tiles to be selected
+2019-01-08 23:00:17,941:DEBUG:called select rectangle
+2019-01-08 23:00:17,941:DEBUG:cursor x=41, y=25
+2019-01-08 23:00:18,159:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:18,160:DEBUG:changed tiles to be selected
+2019-01-08 23:00:18,160:DEBUG:called select rectangle
+2019-01-08 23:00:18,160:DEBUG:cursor x=40, y=25
+2019-01-08 23:00:18,766:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:00:19,098:DEBUG:has_selected = False, active_mode = 1
+2019-01-08 23:00:19,098:DEBUG:cursor x=41, y=25
+2019-01-08 23:00:19,362:DEBUG:selected an object in build mode
+2019-01-08 23:00:19,739:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:00:19,739:DEBUG:changed tiles to be selected
+2019-01-08 23:00:19,739:DEBUG:called select rectangle
+2019-01-08 23:00:19,739:DEBUG:cursor x=41, y=24
+2019-01-08 23:01:55,194:DEBUG:Initialized starting game variables
+2019-01-08 23:01:55,194:DEBUG:Starting game loop
+2019-01-08 23:01:56,529:DEBUG:changed to build mode
+2019-01-08 23:01:57,296:DEBUG:selected an object in build mode
+2019-01-08 23:01:58,550:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:01:58,551:DEBUG:changed tiles to be selected
+2019-01-08 23:01:58,551:DEBUG:called select rectangle
+2019-01-08 23:01:58,551:DEBUG:cursor x=41, y=25
+2019-01-08 23:01:59,146:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:01:59,146:DEBUG:changed tiles to be selected
+2019-01-08 23:01:59,146:DEBUG:called select rectangle
+2019-01-08 23:01:59,146:DEBUG:cursor x=41, y=24
+2019-01-08 23:01:59,445:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:01:59,445:DEBUG:changed tiles to be selected
+2019-01-08 23:01:59,445:DEBUG:called select rectangle
+2019-01-08 23:01:59,445:DEBUG:cursor x=41, y=23
+2019-01-08 23:02:00,089:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:00,089:DEBUG:changed tiles to be selected
+2019-01-08 23:02:00,091:DEBUG:called select rectangle
+2019-01-08 23:02:00,091:DEBUG:cursor x=41, y=22
+2019-01-08 23:02:00,452:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:00,452:DEBUG:changed tiles to be selected
+2019-01-08 23:02:00,452:DEBUG:called select rectangle
+2019-01-08 23:02:00,452:DEBUG:cursor x=42, y=22
+2019-01-08 23:02:00,914:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:02:01,342:DEBUG:selected an object in build mode
+2019-01-08 23:02:01,593:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:01,593:DEBUG:changed tiles to be selected
+2019-01-08 23:02:01,593:DEBUG:called select rectangle
+2019-01-08 23:02:01,593:DEBUG:cursor x=42, y=23
+2019-01-08 23:02:01,722:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:01,722:DEBUG:changed tiles to be selected
+2019-01-08 23:02:01,722:DEBUG:called select rectangle
+2019-01-08 23:02:01,722:DEBUG:cursor x=41, y=23
+2019-01-08 23:02:01,915:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:01,915:DEBUG:changed tiles to be selected
+2019-01-08 23:02:01,915:DEBUG:called select rectangle
+2019-01-08 23:02:01,915:DEBUG:cursor x=41, y=24
+2019-01-08 23:02:02,046:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:02,046:DEBUG:changed tiles to be selected
+2019-01-08 23:02:02,046:DEBUG:called select rectangle
+2019-01-08 23:02:02,046:DEBUG:cursor x=40, y=24
+2019-01-08 23:02:02,274:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:02:02,274:DEBUG:changed tiles to be selected
+2019-01-08 23:02:02,275:DEBUG:called select rectangle
+2019-01-08 23:02:02,275:DEBUG:cursor x=40, y=25
+2019-01-08 23:04:42,588:DEBUG:Initialized starting game variables
+2019-01-08 23:04:42,589:DEBUG:Starting game loop
+2019-01-08 23:04:43,768:DEBUG:changed to build mode
+2019-01-08 23:04:44,605:DEBUG:selected an object in build mode
+2019-01-08 23:04:46,101:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:46,101:DEBUG:changed tiles to be selected
+2019-01-08 23:04:46,101:DEBUG:called select rectangle
+2019-01-08 23:04:46,101:DEBUG:cursor x=40, y=24
+2019-01-08 23:04:46,520:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:46,520:DEBUG:changed tiles to be selected
+2019-01-08 23:04:46,520:DEBUG:called select rectangle
+2019-01-08 23:04:46,520:DEBUG:cursor x=40, y=23
+2019-01-08 23:04:46,868:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:46,868:DEBUG:changed tiles to be selected
+2019-01-08 23:04:46,868:DEBUG:called select rectangle
+2019-01-08 23:04:46,868:DEBUG:cursor x=40, y=22
+2019-01-08 23:04:47,142:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:47,142:DEBUG:changed tiles to be selected
+2019-01-08 23:04:47,142:DEBUG:called select rectangle
+2019-01-08 23:04:47,142:DEBUG:cursor x=41, y=22
+2019-01-08 23:04:47,531:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:47,531:DEBUG:changed tiles to be selected
+2019-01-08 23:04:47,531:DEBUG:called select rectangle
+2019-01-08 23:04:47,531:DEBUG:cursor x=42, y=22
+2019-01-08 23:04:47,965:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:47,965:DEBUG:changed tiles to be selected
+2019-01-08 23:04:47,965:DEBUG:called select rectangle
+2019-01-08 23:04:47,965:DEBUG:cursor x=42, y=23
+2019-01-08 23:04:48,280:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:48,281:DEBUG:changed tiles to be selected
+2019-01-08 23:04:48,281:DEBUG:called select rectangle
+2019-01-08 23:04:48,281:DEBUG:cursor x=42, y=24
+2019-01-08 23:04:48,583:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:48,583:DEBUG:changed tiles to be selected
+2019-01-08 23:04:48,584:DEBUG:called select rectangle
+2019-01-08 23:04:48,584:DEBUG:cursor x=42, y=25
+2019-01-08 23:04:48,858:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:48,858:DEBUG:changed tiles to be selected
+2019-01-08 23:04:48,859:DEBUG:called select rectangle
+2019-01-08 23:04:48,859:DEBUG:cursor x=41, y=25
+2019-01-08 23:04:49,181:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:49,181:DEBUG:changed tiles to be selected
+2019-01-08 23:04:49,181:DEBUG:called select rectangle
+2019-01-08 23:04:49,181:DEBUG:cursor x=41, y=24
+2019-01-08 23:04:49,353:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:49,353:DEBUG:changed tiles to be selected
+2019-01-08 23:04:49,353:DEBUG:called select rectangle
+2019-01-08 23:04:49,353:DEBUG:cursor x=41, y=23
+2019-01-08 23:04:49,641:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:04:50,332:DEBUG:selected an object in build mode
+2019-01-08 23:04:50,500:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:50,500:DEBUG:changed tiles to be selected
+2019-01-08 23:04:50,500:DEBUG:called select rectangle
+2019-01-08 23:04:50,501:DEBUG:cursor x=41, y=22
+2019-01-08 23:04:50,690:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:50,690:DEBUG:changed tiles to be selected
+2019-01-08 23:04:50,690:DEBUG:called select rectangle
+2019-01-08 23:04:50,690:DEBUG:cursor x=41, y=21
+2019-01-08 23:04:51,198:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:51,198:DEBUG:changed tiles to be selected
+2019-01-08 23:04:51,200:DEBUG:called select rectangle
+2019-01-08 23:04:51,200:DEBUG:cursor x=42, y=21
+2019-01-08 23:04:51,522:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:51,522:DEBUG:changed tiles to be selected
+2019-01-08 23:04:51,523:DEBUG:called select rectangle
+2019-01-08 23:04:51,523:DEBUG:cursor x=42, y=22
+2019-01-08 23:04:51,693:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:51,693:DEBUG:changed tiles to be selected
+2019-01-08 23:04:51,694:DEBUG:called select rectangle
+2019-01-08 23:04:51,694:DEBUG:cursor x=42, y=23
+2019-01-08 23:04:51,867:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:51,867:DEBUG:changed tiles to be selected
+2019-01-08 23:04:51,867:DEBUG:called select rectangle
+2019-01-08 23:04:51,867:DEBUG:cursor x=42, y=24
+2019-01-08 23:04:52,072:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:52,072:DEBUG:changed tiles to be selected
+2019-01-08 23:04:52,072:DEBUG:called select rectangle
+2019-01-08 23:04:52,072:DEBUG:cursor x=42, y=25
+2019-01-08 23:04:52,642:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:52,642:DEBUG:changed tiles to be selected
+2019-01-08 23:04:52,642:DEBUG:called select rectangle
+2019-01-08 23:04:52,642:DEBUG:cursor x=42, y=26
+2019-01-08 23:04:52,868:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:52,868:DEBUG:changed tiles to be selected
+2019-01-08 23:04:52,868:DEBUG:called select rectangle
+2019-01-08 23:04:52,868:DEBUG:cursor x=42, y=27
+2019-01-08 23:04:53,102:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:53,102:DEBUG:changed tiles to be selected
+2019-01-08 23:04:53,102:DEBUG:called select rectangle
+2019-01-08 23:04:53,102:DEBUG:cursor x=42, y=28
+2019-01-08 23:04:53,317:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:53,318:DEBUG:changed tiles to be selected
+2019-01-08 23:04:53,318:DEBUG:called select rectangle
+2019-01-08 23:04:53,318:DEBUG:cursor x=42, y=29
+2019-01-08 23:04:53,521:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:53,521:DEBUG:changed tiles to be selected
+2019-01-08 23:04:53,521:DEBUG:called select rectangle
+2019-01-08 23:04:53,521:DEBUG:cursor x=42, y=30
+2019-01-08 23:04:53,837:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:53,837:DEBUG:changed tiles to be selected
+2019-01-08 23:04:53,838:DEBUG:called select rectangle
+2019-01-08 23:04:53,838:DEBUG:cursor x=43, y=30
+2019-01-08 23:04:54,059:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:54,059:DEBUG:changed tiles to be selected
+2019-01-08 23:04:54,059:DEBUG:called select rectangle
+2019-01-08 23:04:54,059:DEBUG:cursor x=44, y=30
+2019-01-08 23:04:54,281:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:54,281:DEBUG:changed tiles to be selected
+2019-01-08 23:04:54,281:DEBUG:called select rectangle
+2019-01-08 23:04:54,281:DEBUG:cursor x=45, y=30
+2019-01-08 23:04:54,494:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:54,494:DEBUG:changed tiles to be selected
+2019-01-08 23:04:54,494:DEBUG:called select rectangle
+2019-01-08 23:04:54,494:DEBUG:cursor x=46, y=30
+2019-01-08 23:04:54,683:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:54,683:DEBUG:changed tiles to be selected
+2019-01-08 23:04:54,683:DEBUG:called select rectangle
+2019-01-08 23:04:54,683:DEBUG:cursor x=47, y=30
+2019-01-08 23:04:54,861:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:54,861:DEBUG:changed tiles to be selected
+2019-01-08 23:04:54,861:DEBUG:called select rectangle
+2019-01-08 23:04:54,861:DEBUG:cursor x=48, y=30
+2019-01-08 23:04:55,053:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:55,053:DEBUG:changed tiles to be selected
+2019-01-08 23:04:55,053:DEBUG:called select rectangle
+2019-01-08 23:04:55,053:DEBUG:cursor x=49, y=30
+2019-01-08 23:04:55,263:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:55,263:DEBUG:changed tiles to be selected
+2019-01-08 23:04:55,264:DEBUG:called select rectangle
+2019-01-08 23:04:55,264:DEBUG:cursor x=50, y=30
+2019-01-08 23:04:55,453:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:55,453:DEBUG:changed tiles to be selected
+2019-01-08 23:04:55,453:DEBUG:called select rectangle
+2019-01-08 23:04:55,454:DEBUG:cursor x=51, y=30
+2019-01-08 23:04:55,665:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:55,665:DEBUG:changed tiles to be selected
+2019-01-08 23:04:55,666:DEBUG:called select rectangle
+2019-01-08 23:04:55,666:DEBUG:cursor x=52, y=30
+2019-01-08 23:04:56,108:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:56,108:DEBUG:changed tiles to be selected
+2019-01-08 23:04:56,108:DEBUG:called select rectangle
+2019-01-08 23:04:56,108:DEBUG:cursor x=52, y=29
+2019-01-08 23:04:56,311:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:56,311:DEBUG:changed tiles to be selected
+2019-01-08 23:04:56,312:DEBUG:called select rectangle
+2019-01-08 23:04:56,312:DEBUG:cursor x=52, y=28
+2019-01-08 23:04:56,487:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:56,487:DEBUG:changed tiles to be selected
+2019-01-08 23:04:56,487:DEBUG:called select rectangle
+2019-01-08 23:04:56,487:DEBUG:cursor x=52, y=27
+2019-01-08 23:04:56,661:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:56,661:DEBUG:changed tiles to be selected
+2019-01-08 23:04:56,661:DEBUG:called select rectangle
+2019-01-08 23:04:56,661:DEBUG:cursor x=52, y=26
+2019-01-08 23:04:56,841:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:56,842:DEBUG:changed tiles to be selected
+2019-01-08 23:04:56,842:DEBUG:called select rectangle
+2019-01-08 23:04:56,842:DEBUG:cursor x=52, y=25
+2019-01-08 23:04:57,011:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:57,011:DEBUG:changed tiles to be selected
+2019-01-08 23:04:57,012:DEBUG:called select rectangle
+2019-01-08 23:04:57,012:DEBUG:cursor x=52, y=24
+2019-01-08 23:04:57,222:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:57,223:DEBUG:changed tiles to be selected
+2019-01-08 23:04:57,223:DEBUG:called select rectangle
+2019-01-08 23:04:57,223:DEBUG:cursor x=52, y=23
+2019-01-08 23:04:57,424:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:57,425:DEBUG:changed tiles to be selected
+2019-01-08 23:04:57,425:DEBUG:called select rectangle
+2019-01-08 23:04:57,425:DEBUG:cursor x=52, y=22
+2019-01-08 23:04:57,616:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:57,616:DEBUG:changed tiles to be selected
+2019-01-08 23:04:57,616:DEBUG:called select rectangle
+2019-01-08 23:04:57,616:DEBUG:cursor x=52, y=21
+2019-01-08 23:04:57,788:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:57,788:DEBUG:changed tiles to be selected
+2019-01-08 23:04:57,788:DEBUG:called select rectangle
+2019-01-08 23:04:57,788:DEBUG:cursor x=52, y=20
+2019-01-08 23:04:58,002:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:58,002:DEBUG:changed tiles to be selected
+2019-01-08 23:04:58,002:DEBUG:called select rectangle
+2019-01-08 23:04:58,002:DEBUG:cursor x=52, y=19
+2019-01-08 23:04:58,216:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:58,216:DEBUG:changed tiles to be selected
+2019-01-08 23:04:58,216:DEBUG:called select rectangle
+2019-01-08 23:04:58,216:DEBUG:cursor x=52, y=18
+2019-01-08 23:04:58,440:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:58,440:DEBUG:changed tiles to be selected
+2019-01-08 23:04:58,440:DEBUG:called select rectangle
+2019-01-08 23:04:58,440:DEBUG:cursor x=52, y=17
+2019-01-08 23:04:58,621:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:58,621:DEBUG:changed tiles to be selected
+2019-01-08 23:04:58,621:DEBUG:called select rectangle
+2019-01-08 23:04:58,621:DEBUG:cursor x=52, y=16
+2019-01-08 23:04:58,823:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:58,823:DEBUG:changed tiles to be selected
+2019-01-08 23:04:58,823:DEBUG:called select rectangle
+2019-01-08 23:04:58,823:DEBUG:cursor x=52, y=15
+2019-01-08 23:04:59,183:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:59,183:DEBUG:changed tiles to be selected
+2019-01-08 23:04:59,183:DEBUG:called select rectangle
+2019-01-08 23:04:59,183:DEBUG:cursor x=51, y=15
+2019-01-08 23:04:59,409:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:59,409:DEBUG:changed tiles to be selected
+2019-01-08 23:04:59,409:DEBUG:called select rectangle
+2019-01-08 23:04:59,409:DEBUG:cursor x=50, y=15
+2019-01-08 23:04:59,578:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:59,579:DEBUG:changed tiles to be selected
+2019-01-08 23:04:59,579:DEBUG:called select rectangle
+2019-01-08 23:04:59,579:DEBUG:cursor x=49, y=15
+2019-01-08 23:04:59,785:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:59,785:DEBUG:changed tiles to be selected
+2019-01-08 23:04:59,785:DEBUG:called select rectangle
+2019-01-08 23:04:59,785:DEBUG:cursor x=48, y=15
+2019-01-08 23:04:59,994:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:04:59,994:DEBUG:changed tiles to be selected
+2019-01-08 23:04:59,994:DEBUG:called select rectangle
+2019-01-08 23:04:59,994:DEBUG:cursor x=47, y=15
+2019-01-08 23:05:00,357:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:00,357:DEBUG:changed tiles to be selected
+2019-01-08 23:05:00,357:DEBUG:called select rectangle
+2019-01-08 23:05:00,357:DEBUG:cursor x=48, y=15
+2019-01-08 23:05:00,556:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:00,556:DEBUG:changed tiles to be selected
+2019-01-08 23:05:00,556:DEBUG:called select rectangle
+2019-01-08 23:05:00,556:DEBUG:cursor x=49, y=15
+2019-01-08 23:05:00,737:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:00,737:DEBUG:changed tiles to be selected
+2019-01-08 23:05:00,737:DEBUG:called select rectangle
+2019-01-08 23:05:00,737:DEBUG:cursor x=50, y=15
+2019-01-08 23:05:00,917:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:00,918:DEBUG:changed tiles to be selected
+2019-01-08 23:05:00,918:DEBUG:called select rectangle
+2019-01-08 23:05:00,918:DEBUG:cursor x=51, y=15
+2019-01-08 23:05:01,113:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:01,113:DEBUG:changed tiles to be selected
+2019-01-08 23:05:01,113:DEBUG:called select rectangle
+2019-01-08 23:05:01,114:DEBUG:cursor x=52, y=15
+2019-01-08 23:05:01,296:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:01,296:DEBUG:changed tiles to be selected
+2019-01-08 23:05:01,296:DEBUG:called select rectangle
+2019-01-08 23:05:01,296:DEBUG:cursor x=53, y=15
+2019-01-08 23:05:01,484:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:01,484:DEBUG:changed tiles to be selected
+2019-01-08 23:05:01,486:DEBUG:called select rectangle
+2019-01-08 23:05:01,486:DEBUG:cursor x=54, y=15
+2019-01-08 23:05:01,666:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:01,667:DEBUG:changed tiles to be selected
+2019-01-08 23:05:01,667:DEBUG:called select rectangle
+2019-01-08 23:05:01,667:DEBUG:cursor x=55, y=15
+2019-01-08 23:05:01,849:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:01,849:DEBUG:changed tiles to be selected
+2019-01-08 23:05:01,849:DEBUG:called select rectangle
+2019-01-08 23:05:01,849:DEBUG:cursor x=56, y=15
+2019-01-08 23:05:02,024:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:02,024:DEBUG:changed tiles to be selected
+2019-01-08 23:05:02,024:DEBUG:called select rectangle
+2019-01-08 23:05:02,024:DEBUG:cursor x=57, y=15
+2019-01-08 23:05:02,216:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:02,216:DEBUG:changed tiles to be selected
+2019-01-08 23:05:02,216:DEBUG:called select rectangle
+2019-01-08 23:05:02,216:DEBUG:cursor x=58, y=15
+2019-01-08 23:05:02,397:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:02,397:DEBUG:changed tiles to be selected
+2019-01-08 23:05:02,397:DEBUG:called select rectangle
+2019-01-08 23:05:02,397:DEBUG:cursor x=59, y=15
+2019-01-08 23:05:02,578:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:02,579:DEBUG:changed tiles to be selected
+2019-01-08 23:05:02,579:DEBUG:called select rectangle
+2019-01-08 23:05:02,579:DEBUG:cursor x=60, y=15
+2019-01-08 23:05:02,763:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:02,763:DEBUG:changed tiles to be selected
+2019-01-08 23:05:02,763:DEBUG:called select rectangle
+2019-01-08 23:05:02,763:DEBUG:cursor x=61, y=15
+2019-01-08 23:05:03,190:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:03,190:DEBUG:changed tiles to be selected
+2019-01-08 23:05:03,190:DEBUG:called select rectangle
+2019-01-08 23:05:03,190:DEBUG:cursor x=61, y=16
+2019-01-08 23:05:03,375:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:03,375:DEBUG:changed tiles to be selected
+2019-01-08 23:05:03,375:DEBUG:called select rectangle
+2019-01-08 23:05:03,375:DEBUG:cursor x=61, y=17
+2019-01-08 23:05:03,556:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:03,556:DEBUG:changed tiles to be selected
+2019-01-08 23:05:03,556:DEBUG:called select rectangle
+2019-01-08 23:05:03,556:DEBUG:cursor x=61, y=18
+2019-01-08 23:05:03,740:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:03,740:DEBUG:changed tiles to be selected
+2019-01-08 23:05:03,740:DEBUG:called select rectangle
+2019-01-08 23:05:03,740:DEBUG:cursor x=61, y=19
+2019-01-08 23:05:03,934:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:03,934:DEBUG:changed tiles to be selected
+2019-01-08 23:05:03,934:DEBUG:called select rectangle
+2019-01-08 23:05:03,934:DEBUG:cursor x=61, y=20
+2019-01-08 23:05:04,200:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,200:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,200:DEBUG:called select rectangle
+2019-01-08 23:05:04,200:DEBUG:cursor x=60, y=20
+2019-01-08 23:05:04,706:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,706:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,706:DEBUG:called select rectangle
+2019-01-08 23:05:04,706:DEBUG:cursor x=59, y=20
+2019-01-08 23:05:04,729:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,730:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,730:DEBUG:called select rectangle
+2019-01-08 23:05:04,730:DEBUG:cursor x=58, y=20
+2019-01-08 23:05:04,763:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,764:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,764:DEBUG:called select rectangle
+2019-01-08 23:05:04,764:DEBUG:cursor x=57, y=20
+2019-01-08 23:05:04,797:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,797:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,797:DEBUG:called select rectangle
+2019-01-08 23:05:04,797:DEBUG:cursor x=56, y=20
+2019-01-08 23:05:04,830:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,830:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,830:DEBUG:called select rectangle
+2019-01-08 23:05:04,830:DEBUG:cursor x=55, y=20
+2019-01-08 23:05:04,854:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:04,854:DEBUG:changed tiles to be selected
+2019-01-08 23:05:04,854:DEBUG:called select rectangle
+2019-01-08 23:05:04,854:DEBUG:cursor x=54, y=20
+2019-01-08 23:05:05,056:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:05,056:DEBUG:changed tiles to be selected
+2019-01-08 23:05:05,056:DEBUG:called select rectangle
+2019-01-08 23:05:05,056:DEBUG:cursor x=53, y=20
+2019-01-08 23:05:05,273:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:05,273:DEBUG:changed tiles to be selected
+2019-01-08 23:05:05,273:DEBUG:called select rectangle
+2019-01-08 23:05:05,274:DEBUG:cursor x=52, y=20
+2019-01-08 23:05:05,602:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:05,602:DEBUG:changed tiles to be selected
+2019-01-08 23:05:05,602:DEBUG:called select rectangle
+2019-01-08 23:05:05,603:DEBUG:cursor x=52, y=19
+2019-01-08 23:05:05,807:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:05,807:DEBUG:changed tiles to be selected
+2019-01-08 23:05:05,807:DEBUG:called select rectangle
+2019-01-08 23:05:05,807:DEBUG:cursor x=53, y=19
+2019-01-08 23:05:06,315:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,315:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,316:DEBUG:called select rectangle
+2019-01-08 23:05:06,316:DEBUG:cursor x=54, y=19
+2019-01-08 23:05:06,338:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,338:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,338:DEBUG:called select rectangle
+2019-01-08 23:05:06,338:DEBUG:cursor x=55, y=19
+2019-01-08 23:05:06,373:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,373:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,373:DEBUG:called select rectangle
+2019-01-08 23:05:06,373:DEBUG:cursor x=56, y=19
+2019-01-08 23:05:06,406:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,407:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,407:DEBUG:called select rectangle
+2019-01-08 23:05:06,407:DEBUG:cursor x=57, y=19
+2019-01-08 23:05:06,429:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,429:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,429:DEBUG:called select rectangle
+2019-01-08 23:05:06,429:DEBUG:cursor x=58, y=19
+2019-01-08 23:05:06,462:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,462:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,462:DEBUG:called select rectangle
+2019-01-08 23:05:06,462:DEBUG:cursor x=59, y=19
+2019-01-08 23:05:06,497:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,497:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,497:DEBUG:called select rectangle
+2019-01-08 23:05:06,497:DEBUG:cursor x=60, y=19
+2019-01-08 23:05:06,531:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,531:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,531:DEBUG:called select rectangle
+2019-01-08 23:05:06,531:DEBUG:cursor x=61, y=19
+2019-01-08 23:05:06,554:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,554:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,554:DEBUG:called select rectangle
+2019-01-08 23:05:06,554:DEBUG:cursor x=62, y=19
+2019-01-08 23:05:06,589:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:06,589:DEBUG:changed tiles to be selected
+2019-01-08 23:05:06,589:DEBUG:called select rectangle
+2019-01-08 23:05:06,589:DEBUG:cursor x=63, y=19
+2019-01-08 23:05:07,024:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,024:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,024:DEBUG:called select rectangle
+2019-01-08 23:05:07,024:DEBUG:cursor x=64, y=19
+2019-01-08 23:05:07,239:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,239:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,239:DEBUG:called select rectangle
+2019-01-08 23:05:07,240:DEBUG:cursor x=65, y=19
+2019-01-08 23:05:07,453:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,453:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,453:DEBUG:called select rectangle
+2019-01-08 23:05:07,453:DEBUG:cursor x=65, y=20
+2019-01-08 23:05:07,646:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,646:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,646:DEBUG:called select rectangle
+2019-01-08 23:05:07,646:DEBUG:cursor x=65, y=21
+2019-01-08 23:05:07,848:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,848:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,848:DEBUG:called select rectangle
+2019-01-08 23:05:07,848:DEBUG:cursor x=65, y=22
+2019-01-08 23:05:07,967:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:07,968:DEBUG:changed tiles to be selected
+2019-01-08 23:05:07,968:DEBUG:called select rectangle
+2019-01-08 23:05:07,968:DEBUG:cursor x=64, y=22
+2019-01-08 23:05:08,243:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:08,244:DEBUG:changed tiles to be selected
+2019-01-08 23:05:08,244:DEBUG:called select rectangle
+2019-01-08 23:05:08,244:DEBUG:cursor x=63, y=22
+2019-01-08 23:05:08,612:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:08,613:DEBUG:changed tiles to be selected
+2019-01-08 23:05:08,613:DEBUG:called select rectangle
+2019-01-08 23:05:08,613:DEBUG:cursor x=63, y=21
+2019-01-08 23:05:08,835:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:08,835:DEBUG:changed tiles to be selected
+2019-01-08 23:05:08,835:DEBUG:called select rectangle
+2019-01-08 23:05:08,835:DEBUG:cursor x=62, y=21
+2019-01-08 23:05:09,039:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:09,039:DEBUG:changed tiles to be selected
+2019-01-08 23:05:09,039:DEBUG:called select rectangle
+2019-01-08 23:05:09,039:DEBUG:cursor x=61, y=21
+2019-01-08 23:05:09,334:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:09,334:DEBUG:changed tiles to be selected
+2019-01-08 23:05:09,334:DEBUG:called select rectangle
+2019-01-08 23:05:09,334:DEBUG:cursor x=61, y=20
+2019-01-08 23:05:09,689:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:09,689:DEBUG:changed tiles to be selected
+2019-01-08 23:05:09,689:DEBUG:called select rectangle
+2019-01-08 23:05:09,689:DEBUG:cursor x=60, y=20
+2019-01-08 23:05:09,890:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:09,890:DEBUG:changed tiles to be selected
+2019-01-08 23:05:09,890:DEBUG:called select rectangle
+2019-01-08 23:05:09,890:DEBUG:cursor x=59, y=20
+2019-01-08 23:05:10,120:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:10,121:DEBUG:changed tiles to be selected
+2019-01-08 23:05:10,121:DEBUG:called select rectangle
+2019-01-08 23:05:10,121:DEBUG:cursor x=58, y=20
+2019-01-08 23:05:10,358:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:10,358:DEBUG:changed tiles to be selected
+2019-01-08 23:05:10,358:DEBUG:called select rectangle
+2019-01-08 23:05:10,358:DEBUG:cursor x=58, y=21
+2019-01-08 23:05:10,548:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:10,548:DEBUG:changed tiles to be selected
+2019-01-08 23:05:10,549:DEBUG:called select rectangle
+2019-01-08 23:05:10,549:DEBUG:cursor x=58, y=22
+2019-01-08 23:05:10,748:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:10,748:DEBUG:changed tiles to be selected
+2019-01-08 23:05:10,748:DEBUG:called select rectangle
+2019-01-08 23:05:10,748:DEBUG:cursor x=58, y=23
+2019-01-08 23:05:10,962:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:10,962:DEBUG:changed tiles to be selected
+2019-01-08 23:05:10,962:DEBUG:called select rectangle
+2019-01-08 23:05:10,962:DEBUG:cursor x=58, y=24
+2019-01-08 23:05:11,152:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:11,152:DEBUG:changed tiles to be selected
+2019-01-08 23:05:11,152:DEBUG:called select rectangle
+2019-01-08 23:05:11,152:DEBUG:cursor x=58, y=25
+2019-01-08 23:05:11,646:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:11,646:DEBUG:changed tiles to be selected
+2019-01-08 23:05:11,646:DEBUG:called select rectangle
+2019-01-08 23:05:11,646:DEBUG:cursor x=58, y=26
+2019-01-08 23:05:11,850:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:11,850:DEBUG:changed tiles to be selected
+2019-01-08 23:05:11,850:DEBUG:called select rectangle
+2019-01-08 23:05:11,850:DEBUG:cursor x=58, y=27
+2019-01-08 23:05:12,064:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:12,064:DEBUG:changed tiles to be selected
+2019-01-08 23:05:12,064:DEBUG:called select rectangle
+2019-01-08 23:05:12,064:DEBUG:cursor x=58, y=28
+2019-01-08 23:05:12,286:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:12,287:DEBUG:changed tiles to be selected
+2019-01-08 23:05:12,287:DEBUG:called select rectangle
+2019-01-08 23:05:12,287:DEBUG:cursor x=58, y=29
+2019-01-08 23:05:12,487:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:12,487:DEBUG:changed tiles to be selected
+2019-01-08 23:05:12,487:DEBUG:called select rectangle
+2019-01-08 23:05:12,488:DEBUG:cursor x=58, y=30
+2019-01-08 23:05:12,689:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:12,689:DEBUG:changed tiles to be selected
+2019-01-08 23:05:12,689:DEBUG:called select rectangle
+2019-01-08 23:05:12,689:DEBUG:cursor x=58, y=31
+2019-01-08 23:05:20,252:DEBUG:Initialized starting game variables
+2019-01-08 23:05:20,252:DEBUG:Starting game loop
+2019-01-08 23:05:21,359:DEBUG:changed to build mode
+2019-01-08 23:05:22,272:DEBUG:selected an object in build mode
+2019-01-08 23:05:23,261:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:23,261:DEBUG:changed tiles to be selected
+2019-01-08 23:05:23,261:DEBUG:called select rectangle
+2019-01-08 23:05:23,261:DEBUG:cursor x=40, y=24
+2019-01-08 23:05:24,086:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:24,087:DEBUG:changed tiles to be selected
+2019-01-08 23:05:24,087:DEBUG:called select rectangle
+2019-01-08 23:05:24,087:DEBUG:cursor x=40, y=23
+2019-01-08 23:05:24,578:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:24,578:DEBUG:changed tiles to be selected
+2019-01-08 23:05:24,579:DEBUG:called select rectangle
+2019-01-08 23:05:24,579:DEBUG:cursor x=41, y=23
+2019-01-08 23:05:25,172:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:25,172:DEBUG:changed tiles to be selected
+2019-01-08 23:05:25,172:DEBUG:called select rectangle
+2019-01-08 23:05:25,172:DEBUG:cursor x=42, y=23
+2019-01-08 23:05:25,927:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:25,928:DEBUG:changed tiles to be selected
+2019-01-08 23:05:25,928:DEBUG:called select rectangle
+2019-01-08 23:05:25,928:DEBUG:cursor x=42, y=24
+2019-01-08 23:05:26,328:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:26,329:DEBUG:changed tiles to be selected
+2019-01-08 23:05:26,329:DEBUG:called select rectangle
+2019-01-08 23:05:26,329:DEBUG:cursor x=42, y=25
+2019-01-08 23:05:26,857:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:26,857:DEBUG:changed tiles to be selected
+2019-01-08 23:05:26,857:DEBUG:called select rectangle
+2019-01-08 23:05:26,857:DEBUG:cursor x=43, y=25
+2019-01-08 23:05:27,337:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:27,337:DEBUG:changed tiles to be selected
+2019-01-08 23:05:27,337:DEBUG:called select rectangle
+2019-01-08 23:05:27,337:DEBUG:cursor x=43, y=24
+2019-01-08 23:05:27,592:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:27,592:DEBUG:changed tiles to be selected
+2019-01-08 23:05:27,592:DEBUG:called select rectangle
+2019-01-08 23:05:27,592:DEBUG:cursor x=43, y=23
+2019-01-08 23:05:28,060:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:28,060:DEBUG:changed tiles to be selected
+2019-01-08 23:05:28,060:DEBUG:called select rectangle
+2019-01-08 23:05:28,060:DEBUG:cursor x=43, y=24
+2019-01-08 23:05:28,390:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:28,390:DEBUG:changed tiles to be selected
+2019-01-08 23:05:28,390:DEBUG:called select rectangle
+2019-01-08 23:05:28,390:DEBUG:cursor x=44, y=24
+2019-01-08 23:05:28,755:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:28,755:DEBUG:changed tiles to be selected
+2019-01-08 23:05:28,755:DEBUG:called select rectangle
+2019-01-08 23:05:28,755:DEBUG:cursor x=45, y=24
+2019-01-08 23:05:29,013:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:29,013:DEBUG:changed tiles to be selected
+2019-01-08 23:05:29,013:DEBUG:called select rectangle
+2019-01-08 23:05:29,013:DEBUG:cursor x=46, y=24
+2019-01-08 23:05:29,227:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:29,227:DEBUG:changed tiles to be selected
+2019-01-08 23:05:29,229:DEBUG:called select rectangle
+2019-01-08 23:05:29,229:DEBUG:cursor x=45, y=24
+2019-01-08 23:05:29,611:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:29,611:DEBUG:changed tiles to be selected
+2019-01-08 23:05:29,611:DEBUG:called select rectangle
+2019-01-08 23:05:29,611:DEBUG:cursor x=44, y=24
+2019-01-08 23:05:29,815:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:29,816:DEBUG:changed tiles to be selected
+2019-01-08 23:05:29,816:DEBUG:called select rectangle
+2019-01-08 23:05:29,816:DEBUG:cursor x=43, y=24
+2019-01-08 23:05:29,990:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:29,990:DEBUG:changed tiles to be selected
+2019-01-08 23:05:29,990:DEBUG:called select rectangle
+2019-01-08 23:05:29,990:DEBUG:cursor x=42, y=24
+2019-01-08 23:05:30,169:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:30,169:DEBUG:changed tiles to be selected
+2019-01-08 23:05:30,170:DEBUG:called select rectangle
+2019-01-08 23:05:30,170:DEBUG:cursor x=41, y=24
+2019-01-08 23:05:30,578:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:30,579:DEBUG:changed tiles to be selected
+2019-01-08 23:05:30,579:DEBUG:called select rectangle
+2019-01-08 23:05:30,579:DEBUG:cursor x=41, y=25
+2019-01-08 23:05:30,784:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:30,785:DEBUG:changed tiles to be selected
+2019-01-08 23:05:30,785:DEBUG:called select rectangle
+2019-01-08 23:05:30,785:DEBUG:cursor x=41, y=26
+2019-01-08 23:05:31,241:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:31,241:DEBUG:changed tiles to be selected
+2019-01-08 23:05:31,241:DEBUG:called select rectangle
+2019-01-08 23:05:31,241:DEBUG:cursor x=41, y=27
+2019-01-08 23:05:31,760:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:31,760:DEBUG:changed tiles to be selected
+2019-01-08 23:05:31,760:DEBUG:called select rectangle
+2019-01-08 23:05:31,760:DEBUG:cursor x=41, y=28
+2019-01-08 23:05:33,099:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:33,099:DEBUG:changed tiles to be selected
+2019-01-08 23:05:33,099:DEBUG:called select rectangle
+2019-01-08 23:05:33,099:DEBUG:cursor x=41, y=29
+2019-01-08 23:05:33,505:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:33,505:DEBUG:changed tiles to be selected
+2019-01-08 23:05:33,505:DEBUG:called select rectangle
+2019-01-08 23:05:33,505:DEBUG:cursor x=40, y=29
+2019-01-08 23:05:33,754:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:33,754:DEBUG:changed tiles to be selected
+2019-01-08 23:05:33,754:DEBUG:called select rectangle
+2019-01-08 23:05:33,754:DEBUG:cursor x=39, y=29
+2019-01-08 23:05:33,980:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:33,980:DEBUG:changed tiles to be selected
+2019-01-08 23:05:33,980:DEBUG:called select rectangle
+2019-01-08 23:05:33,980:DEBUG:cursor x=38, y=29
+2019-01-08 23:05:34,402:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:34,403:DEBUG:changed tiles to be selected
+2019-01-08 23:05:34,403:DEBUG:called select rectangle
+2019-01-08 23:05:34,404:DEBUG:cursor x=38, y=28
+2019-01-08 23:05:34,628:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:34,628:DEBUG:changed tiles to be selected
+2019-01-08 23:05:34,628:DEBUG:called select rectangle
+2019-01-08 23:05:34,628:DEBUG:cursor x=38, y=27
+2019-01-08 23:05:34,832:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:34,832:DEBUG:changed tiles to be selected
+2019-01-08 23:05:34,833:DEBUG:called select rectangle
+2019-01-08 23:05:34,833:DEBUG:cursor x=38, y=26
+2019-01-08 23:05:35,078:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:35,078:DEBUG:changed tiles to be selected
+2019-01-08 23:05:35,078:DEBUG:called select rectangle
+2019-01-08 23:05:35,078:DEBUG:cursor x=39, y=26
+2019-01-08 23:05:35,348:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:35,348:DEBUG:changed tiles to be selected
+2019-01-08 23:05:35,348:DEBUG:called select rectangle
+2019-01-08 23:05:35,348:DEBUG:cursor x=39, y=27
+2019-01-08 23:05:35,529:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:35,529:DEBUG:changed tiles to be selected
+2019-01-08 23:05:35,529:DEBUG:called select rectangle
+2019-01-08 23:05:35,529:DEBUG:cursor x=39, y=28
+2019-01-08 23:05:35,731:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:35,731:DEBUG:changed tiles to be selected
+2019-01-08 23:05:35,731:DEBUG:called select rectangle
+2019-01-08 23:05:35,731:DEBUG:cursor x=39, y=29
+2019-01-08 23:05:35,960:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:35,960:DEBUG:changed tiles to be selected
+2019-01-08 23:05:35,960:DEBUG:called select rectangle
+2019-01-08 23:05:35,960:DEBUG:cursor x=39, y=30
+2019-01-08 23:05:36,134:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:36,135:DEBUG:changed tiles to be selected
+2019-01-08 23:05:36,135:DEBUG:called select rectangle
+2019-01-08 23:05:36,135:DEBUG:cursor x=39, y=31
+2019-01-08 23:05:36,342:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:36,342:DEBUG:changed tiles to be selected
+2019-01-08 23:05:36,342:DEBUG:called select rectangle
+2019-01-08 23:05:36,342:DEBUG:cursor x=39, y=32
+2019-01-08 23:05:37,067:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:37,067:DEBUG:changed tiles to be selected
+2019-01-08 23:05:37,067:DEBUG:called select rectangle
+2019-01-08 23:05:37,067:DEBUG:cursor x=39, y=33
+2019-01-08 23:05:37,242:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:37,242:DEBUG:changed tiles to be selected
+2019-01-08 23:05:37,242:DEBUG:called select rectangle
+2019-01-08 23:05:37,242:DEBUG:cursor x=39, y=34
+2019-01-08 23:05:37,572:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:05:38,059:DEBUG:selected an object in build mode
+2019-01-08 23:05:38,240:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:38,240:DEBUG:changed tiles to be selected
+2019-01-08 23:05:38,240:DEBUG:called select rectangle
+2019-01-08 23:05:38,240:DEBUG:cursor x=39, y=33
+2019-01-08 23:05:38,440:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:38,440:DEBUG:changed tiles to be selected
+2019-01-08 23:05:38,441:DEBUG:called select rectangle
+2019-01-08 23:05:38,441:DEBUG:cursor x=40, y=33
+2019-01-08 23:05:38,663:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:38,663:DEBUG:changed tiles to be selected
+2019-01-08 23:05:38,663:DEBUG:called select rectangle
+2019-01-08 23:05:38,663:DEBUG:cursor x=41, y=33
+2019-01-08 23:05:38,856:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:38,856:DEBUG:changed tiles to be selected
+2019-01-08 23:05:38,856:DEBUG:called select rectangle
+2019-01-08 23:05:38,856:DEBUG:cursor x=42, y=33
+2019-01-08 23:05:39,407:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:39,407:DEBUG:changed tiles to be selected
+2019-01-08 23:05:39,408:DEBUG:called select rectangle
+2019-01-08 23:05:39,408:DEBUG:cursor x=42, y=34
+2019-01-08 23:05:39,700:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:39,700:DEBUG:changed tiles to be selected
+2019-01-08 23:05:39,700:DEBUG:called select rectangle
+2019-01-08 23:05:39,700:DEBUG:cursor x=41, y=34
+2019-01-08 23:05:39,907:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:39,907:DEBUG:changed tiles to be selected
+2019-01-08 23:05:39,907:DEBUG:called select rectangle
+2019-01-08 23:05:39,907:DEBUG:cursor x=40, y=34
+2019-01-08 23:05:40,264:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:40,265:DEBUG:changed tiles to be selected
+2019-01-08 23:05:40,265:DEBUG:called select rectangle
+2019-01-08 23:05:40,265:DEBUG:cursor x=40, y=35
+2019-01-08 23:05:40,616:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:40,617:DEBUG:changed tiles to be selected
+2019-01-08 23:05:40,617:DEBUG:called select rectangle
+2019-01-08 23:05:40,617:DEBUG:cursor x=40, y=36
+2019-01-08 23:05:41,000:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:41,000:DEBUG:changed tiles to be selected
+2019-01-08 23:05:41,000:DEBUG:called select rectangle
+2019-01-08 23:05:41,000:DEBUG:cursor x=40, y=37
+2019-01-08 23:05:41,396:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:41,396:DEBUG:changed tiles to be selected
+2019-01-08 23:05:41,396:DEBUG:called select rectangle
+2019-01-08 23:05:41,396:DEBUG:cursor x=40, y=38
+2019-01-08 23:05:41,760:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:41,760:DEBUG:changed tiles to be selected
+2019-01-08 23:05:41,760:DEBUG:called select rectangle
+2019-01-08 23:05:41,760:DEBUG:cursor x=40, y=39
+2019-01-08 23:05:42,113:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:05:42,113:DEBUG:changed tiles to be selected
+2019-01-08 23:05:42,113:DEBUG:called select rectangle
+2019-01-08 23:05:42,113:DEBUG:cursor x=40, y=40
+2019-01-08 23:06:23,181:DEBUG:Initialized starting game variables
+2019-01-08 23:06:23,182:DEBUG:Starting game loop
+2019-01-08 23:06:24,278:DEBUG:changed to build mode
+2019-01-08 23:06:24,645:DEBUG:selected an object in build mode
+2019-01-08 23:06:25,116:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:06:25,116:DEBUG:changed tiles to be selected
+2019-01-08 23:06:25,116:DEBUG:called select rectangle
+2019-01-08 23:06:25,116:DEBUG:cursor x=40, y=24
+2019-01-08 23:06:25,746:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:06:25,746:DEBUG:changed tiles to be selected
+2019-01-08 23:06:25,746:DEBUG:called select rectangle
+2019-01-08 23:06:25,746:DEBUG:cursor x=41, y=24
+2019-01-08 23:06:26,157:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:06:26,157:DEBUG:changed tiles to be selected
+2019-01-08 23:06:26,157:DEBUG:called select rectangle
+2019-01-08 23:06:26,157:DEBUG:cursor x=42, y=24
+2019-01-08 23:09:31,211:DEBUG:Initialized starting game variables
+2019-01-08 23:09:31,211:DEBUG:Starting game loop
+2019-01-08 23:09:32,315:DEBUG:changed to build mode
+2019-01-08 23:09:33,720:DEBUG:selected an object in build mode
+2019-01-08 23:09:34,643:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:34,644:DEBUG:changed tiles to be selected
+2019-01-08 23:09:34,646:DEBUG:called select rectangle
+2019-01-08 23:09:34,646:DEBUG:cursor x=40, y=24
+2019-01-08 23:09:35,021:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:35,021:DEBUG:changed tiles to be selected
+2019-01-08 23:09:35,021:DEBUG:called select rectangle
+2019-01-08 23:09:35,021:DEBUG:cursor x=41, y=24
+2019-01-08 23:09:35,509:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:35,509:DEBUG:changed tiles to be selected
+2019-01-08 23:09:35,509:DEBUG:called select rectangle
+2019-01-08 23:09:35,509:DEBUG:cursor x=42, y=24
+2019-01-08 23:09:35,823:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:35,823:DEBUG:changed tiles to be selected
+2019-01-08 23:09:35,823:DEBUG:called select rectangle
+2019-01-08 23:09:35,823:DEBUG:cursor x=43, y=24
+2019-01-08 23:09:36,039:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:36,039:DEBUG:changed tiles to be selected
+2019-01-08 23:09:36,039:DEBUG:called select rectangle
+2019-01-08 23:09:36,039:DEBUG:cursor x=44, y=24
+2019-01-08 23:09:36,339:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:36,339:DEBUG:changed tiles to be selected
+2019-01-08 23:09:36,339:DEBUG:called select rectangle
+2019-01-08 23:09:36,340:DEBUG:cursor x=44, y=25
+2019-01-08 23:09:36,566:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:36,566:DEBUG:changed tiles to be selected
+2019-01-08 23:09:36,566:DEBUG:called select rectangle
+2019-01-08 23:09:36,566:DEBUG:cursor x=44, y=26
+2019-01-08 23:09:36,764:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:36,764:DEBUG:changed tiles to be selected
+2019-01-08 23:09:36,764:DEBUG:called select rectangle
+2019-01-08 23:09:36,764:DEBUG:cursor x=44, y=27
+2019-01-08 23:09:41,615:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:41,615:DEBUG:changed tiles to be selected
+2019-01-08 23:09:41,615:DEBUG:called select rectangle
+2019-01-08 23:09:41,615:DEBUG:cursor x=44, y=28
+2019-01-08 23:09:42,303:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:42,303:DEBUG:changed tiles to be selected
+2019-01-08 23:09:42,303:DEBUG:called select rectangle
+2019-01-08 23:09:42,304:DEBUG:cursor x=43, y=28
+2019-01-08 23:09:42,740:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:42,740:DEBUG:changed tiles to be selected
+2019-01-08 23:09:42,740:DEBUG:called select rectangle
+2019-01-08 23:09:42,740:DEBUG:cursor x=42, y=28
+2019-01-08 23:09:42,978:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:42,978:DEBUG:changed tiles to be selected
+2019-01-08 23:09:42,978:DEBUG:called select rectangle
+2019-01-08 23:09:42,979:DEBUG:cursor x=41, y=28
+2019-01-08 23:09:43,250:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:43,251:DEBUG:changed tiles to be selected
+2019-01-08 23:09:43,251:DEBUG:called select rectangle
+2019-01-08 23:09:43,251:DEBUG:cursor x=40, y=28
+2019-01-08 23:09:43,749:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:43,749:DEBUG:changed tiles to be selected
+2019-01-08 23:09:43,749:DEBUG:called select rectangle
+2019-01-08 23:09:43,749:DEBUG:cursor x=39, y=28
+2019-01-08 23:09:44,547:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:44,547:DEBUG:changed tiles to be selected
+2019-01-08 23:09:44,548:DEBUG:called select rectangle
+2019-01-08 23:09:44,548:DEBUG:cursor x=38, y=28
+2019-01-08 23:09:45,230:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:45,231:DEBUG:changed tiles to be selected
+2019-01-08 23:09:45,231:DEBUG:called select rectangle
+2019-01-08 23:09:45,231:DEBUG:cursor x=37, y=28
+2019-01-08 23:09:46,060:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:46,060:DEBUG:changed tiles to be selected
+2019-01-08 23:09:46,060:DEBUG:called select rectangle
+2019-01-08 23:09:46,060:DEBUG:cursor x=36, y=28
+2019-01-08 23:09:47,328:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:47,328:DEBUG:changed tiles to be selected
+2019-01-08 23:09:47,328:DEBUG:called select rectangle
+2019-01-08 23:09:47,328:DEBUG:cursor x=36, y=27
+2019-01-08 23:09:47,534:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:47,535:DEBUG:changed tiles to be selected
+2019-01-08 23:09:47,535:DEBUG:called select rectangle
+2019-01-08 23:09:47,535:DEBUG:cursor x=36, y=26
+2019-01-08 23:09:47,731:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:47,732:DEBUG:changed tiles to be selected
+2019-01-08 23:09:47,732:DEBUG:called select rectangle
+2019-01-08 23:09:47,732:DEBUG:cursor x=36, y=25
+2019-01-08 23:09:48,096:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:48,096:DEBUG:changed tiles to be selected
+2019-01-08 23:09:48,096:DEBUG:called select rectangle
+2019-01-08 23:09:48,096:DEBUG:cursor x=36, y=24
+2019-01-08 23:09:48,544:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:48,544:DEBUG:changed tiles to be selected
+2019-01-08 23:09:48,544:DEBUG:called select rectangle
+2019-01-08 23:09:48,544:DEBUG:cursor x=36, y=23
+2019-01-08 23:09:48,864:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:48,864:DEBUG:changed tiles to be selected
+2019-01-08 23:09:48,864:DEBUG:called select rectangle
+2019-01-08 23:09:48,864:DEBUG:cursor x=36, y=22
+2019-01-08 23:09:49,163:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:49,163:DEBUG:changed tiles to be selected
+2019-01-08 23:09:49,163:DEBUG:called select rectangle
+2019-01-08 23:09:49,163:DEBUG:cursor x=36, y=21
+2019-01-08 23:09:49,451:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:49,451:DEBUG:changed tiles to be selected
+2019-01-08 23:09:49,451:DEBUG:called select rectangle
+2019-01-08 23:09:49,451:DEBUG:cursor x=36, y=20
+2019-01-08 23:09:49,707:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:49,708:DEBUG:changed tiles to be selected
+2019-01-08 23:09:49,708:DEBUG:called select rectangle
+2019-01-08 23:09:49,708:DEBUG:cursor x=36, y=19
+2019-01-08 23:09:59,600:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:59,600:DEBUG:changed tiles to be selected
+2019-01-08 23:09:59,600:DEBUG:called select rectangle
+2019-01-08 23:09:59,600:DEBUG:cursor x=36, y=20
+2019-01-08 23:09:59,910:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:09:59,910:DEBUG:changed tiles to be selected
+2019-01-08 23:09:59,910:DEBUG:called select rectangle
+2019-01-08 23:09:59,910:DEBUG:cursor x=36, y=21
+2019-01-08 23:10:33,585:DEBUG:Initialized starting game variables
+2019-01-08 23:10:33,586:DEBUG:Starting game loop
+2019-01-08 23:10:34,777:DEBUG:changed to build mode
+2019-01-08 23:10:35,300:DEBUG:selected an object in build mode
+2019-01-08 23:10:35,688:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:35,690:DEBUG:changed tiles to be selected
+2019-01-08 23:10:35,690:DEBUG:called select rectangle
+2019-01-08 23:10:35,690:DEBUG:cursor x=40, y=24
+2019-01-08 23:10:36,065:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:36,067:DEBUG:changed tiles to be selected
+2019-01-08 23:10:36,067:DEBUG:called select rectangle
+2019-01-08 23:10:36,067:DEBUG:cursor x=41, y=24
+2019-01-08 23:10:36,444:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:36,446:DEBUG:changed tiles to be selected
+2019-01-08 23:10:36,446:DEBUG:called select rectangle
+2019-01-08 23:10:36,446:DEBUG:cursor x=42, y=24
+2019-01-08 23:10:36,851:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:36,853:DEBUG:changed tiles to be selected
+2019-01-08 23:10:36,853:DEBUG:called select rectangle
+2019-01-08 23:10:36,853:DEBUG:cursor x=42, y=25
+2019-01-08 23:10:38,406:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:38,408:DEBUG:changed tiles to be selected
+2019-01-08 23:10:38,408:DEBUG:called select rectangle
+2019-01-08 23:10:38,408:DEBUG:cursor x=43, y=25
+2019-01-08 23:10:38,810:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:38,812:DEBUG:changed tiles to be selected
+2019-01-08 23:10:38,812:DEBUG:called select rectangle
+2019-01-08 23:10:38,812:DEBUG:cursor x=44, y=25
+2019-01-08 23:10:39,074:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:39,076:DEBUG:changed tiles to be selected
+2019-01-08 23:10:39,076:DEBUG:called select rectangle
+2019-01-08 23:10:39,076:DEBUG:cursor x=45, y=25
+2019-01-08 23:10:39,445:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:39,447:DEBUG:changed tiles to be selected
+2019-01-08 23:10:39,447:DEBUG:called select rectangle
+2019-01-08 23:10:39,447:DEBUG:cursor x=44, y=25
+2019-01-08 23:10:39,657:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:39,658:DEBUG:changed tiles to be selected
+2019-01-08 23:10:39,658:DEBUG:called select rectangle
+2019-01-08 23:10:39,659:DEBUG:cursor x=43, y=25
+2019-01-08 23:10:39,889:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:39,891:DEBUG:changed tiles to be selected
+2019-01-08 23:10:39,891:DEBUG:called select rectangle
+2019-01-08 23:10:39,891:DEBUG:cursor x=42, y=25
+2019-01-08 23:10:40,439:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:40,442:DEBUG:changed tiles to be selected
+2019-01-08 23:10:40,442:DEBUG:called select rectangle
+2019-01-08 23:10:40,442:DEBUG:cursor x=41, y=25
+2019-01-08 23:10:40,918:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:40,919:DEBUG:changed tiles to be selected
+2019-01-08 23:10:40,919:DEBUG:called select rectangle
+2019-01-08 23:10:40,919:DEBUG:cursor x=42, y=25
+2019-01-08 23:10:41,146:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:41,148:DEBUG:changed tiles to be selected
+2019-01-08 23:10:41,148:DEBUG:called select rectangle
+2019-01-08 23:10:41,149:DEBUG:cursor x=43, y=25
+2019-01-08 23:10:41,327:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:41,329:DEBUG:changed tiles to be selected
+2019-01-08 23:10:41,329:DEBUG:called select rectangle
+2019-01-08 23:10:41,329:DEBUG:cursor x=44, y=25
+2019-01-08 23:10:41,513:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:10:41,514:DEBUG:changed tiles to be selected
+2019-01-08 23:10:41,514:DEBUG:called select rectangle
+2019-01-08 23:10:41,514:DEBUG:cursor x=45, y=25
+2019-01-08 23:11:07,875:DEBUG:Initialized starting game variables
+2019-01-08 23:11:07,875:DEBUG:Starting game loop
+2019-01-08 23:11:09,019:DEBUG:changed to build mode
+2019-01-08 23:11:09,355:DEBUG:selected an object in build mode
+2019-01-08 23:11:10,512:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:10,514:DEBUG:changed tiles to be selected
+2019-01-08 23:11:10,514:DEBUG:called select rectangle
+2019-01-08 23:11:10,514:DEBUG:cursor x=41, y=25
+2019-01-08 23:11:10,879:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:10,881:DEBUG:changed tiles to be selected
+2019-01-08 23:11:10,881:DEBUG:called select rectangle
+2019-01-08 23:11:10,881:DEBUG:cursor x=42, y=25
+2019-01-08 23:11:11,163:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:11,166:DEBUG:changed tiles to be selected
+2019-01-08 23:11:11,166:DEBUG:called select rectangle
+2019-01-08 23:11:11,166:DEBUG:cursor x=43, y=25
+2019-01-08 23:11:11,522:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:11,524:DEBUG:changed tiles to be selected
+2019-01-08 23:11:11,524:DEBUG:called select rectangle
+2019-01-08 23:11:11,524:DEBUG:cursor x=43, y=24
+2019-01-08 23:11:11,874:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:11,876:DEBUG:changed tiles to be selected
+2019-01-08 23:11:11,877:DEBUG:called select rectangle
+2019-01-08 23:11:11,877:DEBUG:cursor x=43, y=23
+2019-01-08 23:11:12,096:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:12,098:DEBUG:changed tiles to be selected
+2019-01-08 23:11:12,098:DEBUG:called select rectangle
+2019-01-08 23:11:12,098:DEBUG:cursor x=43, y=22
+2019-01-08 23:11:12,429:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:12,431:DEBUG:changed tiles to be selected
+2019-01-08 23:11:12,431:DEBUG:called select rectangle
+2019-01-08 23:11:12,431:DEBUG:cursor x=44, y=22
+2019-01-08 23:11:12,655:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:12,657:DEBUG:changed tiles to be selected
+2019-01-08 23:11:12,657:DEBUG:called select rectangle
+2019-01-08 23:11:12,657:DEBUG:cursor x=45, y=22
+2019-01-08 23:11:12,930:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:12,932:DEBUG:changed tiles to be selected
+2019-01-08 23:11:12,932:DEBUG:called select rectangle
+2019-01-08 23:11:12,932:DEBUG:cursor x=45, y=21
+2019-01-08 23:11:13,109:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:13,111:DEBUG:changed tiles to be selected
+2019-01-08 23:11:13,111:DEBUG:called select rectangle
+2019-01-08 23:11:13,111:DEBUG:cursor x=45, y=20
+2019-01-08 23:11:13,273:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:13,275:DEBUG:changed tiles to be selected
+2019-01-08 23:11:13,275:DEBUG:called select rectangle
+2019-01-08 23:11:13,275:DEBUG:cursor x=45, y=19
+2019-01-08 23:11:13,451:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:13,453:DEBUG:changed tiles to be selected
+2019-01-08 23:11:13,453:DEBUG:called select rectangle
+2019-01-08 23:11:13,453:DEBUG:cursor x=45, y=18
+2019-01-08 23:11:13,675:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:13,676:DEBUG:changed tiles to be selected
+2019-01-08 23:11:13,676:DEBUG:called select rectangle
+2019-01-08 23:11:13,676:DEBUG:cursor x=44, y=18
+2019-01-08 23:11:14,177:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,179:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,179:DEBUG:called select rectangle
+2019-01-08 23:11:14,179:DEBUG:cursor x=43, y=18
+2019-01-08 23:11:14,202:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,204:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,204:DEBUG:called select rectangle
+2019-01-08 23:11:14,204:DEBUG:cursor x=42, y=18
+2019-01-08 23:11:14,238:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,241:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,241:DEBUG:called select rectangle
+2019-01-08 23:11:14,241:DEBUG:cursor x=41, y=18
+2019-01-08 23:11:14,264:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,267:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,267:DEBUG:called select rectangle
+2019-01-08 23:11:14,267:DEBUG:cursor x=40, y=18
+2019-01-08 23:11:14,307:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,309:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,309:DEBUG:called select rectangle
+2019-01-08 23:11:14,309:DEBUG:cursor x=39, y=18
+2019-01-08 23:11:14,332:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,334:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,334:DEBUG:called select rectangle
+2019-01-08 23:11:14,334:DEBUG:cursor x=38, y=18
+2019-01-08 23:11:14,435:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,436:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,436:DEBUG:called select rectangle
+2019-01-08 23:11:14,436:DEBUG:cursor x=37, y=18
+2019-01-08 23:11:14,665:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,667:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,667:DEBUG:called select rectangle
+2019-01-08 23:11:14,667:DEBUG:cursor x=36, y=18
+2019-01-08 23:11:14,842:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:14,844:DEBUG:changed tiles to be selected
+2019-01-08 23:11:14,845:DEBUG:called select rectangle
+2019-01-08 23:11:14,845:DEBUG:cursor x=35, y=18
+2019-01-08 23:11:15,083:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,084:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,084:DEBUG:called select rectangle
+2019-01-08 23:11:15,085:DEBUG:cursor x=35, y=19
+2019-01-08 23:11:15,258:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,260:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,260:DEBUG:called select rectangle
+2019-01-08 23:11:15,260:DEBUG:cursor x=35, y=20
+2019-01-08 23:11:15,424:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,426:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,426:DEBUG:called select rectangle
+2019-01-08 23:11:15,426:DEBUG:cursor x=35, y=21
+2019-01-08 23:11:15,602:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,604:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,604:DEBUG:called select rectangle
+2019-01-08 23:11:15,604:DEBUG:cursor x=35, y=22
+2019-01-08 23:11:15,777:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,779:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,779:DEBUG:called select rectangle
+2019-01-08 23:11:15,779:DEBUG:cursor x=35, y=23
+2019-01-08 23:11:15,942:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:15,943:DEBUG:changed tiles to be selected
+2019-01-08 23:11:15,943:DEBUG:called select rectangle
+2019-01-08 23:11:15,944:DEBUG:cursor x=35, y=24
+2019-01-08 23:11:16,107:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,109:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,109:DEBUG:called select rectangle
+2019-01-08 23:11:16,109:DEBUG:cursor x=35, y=25
+2019-01-08 23:11:16,270:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,272:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,272:DEBUG:called select rectangle
+2019-01-08 23:11:16,272:DEBUG:cursor x=35, y=26
+2019-01-08 23:11:16,435:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,436:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,437:DEBUG:called select rectangle
+2019-01-08 23:11:16,437:DEBUG:cursor x=35, y=27
+2019-01-08 23:11:16,591:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,593:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,593:DEBUG:called select rectangle
+2019-01-08 23:11:16,593:DEBUG:cursor x=35, y=28
+2019-01-08 23:11:16,786:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,787:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,788:DEBUG:called select rectangle
+2019-01-08 23:11:16,788:DEBUG:cursor x=35, y=29
+2019-01-08 23:11:16,951:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:16,953:DEBUG:changed tiles to be selected
+2019-01-08 23:11:16,953:DEBUG:called select rectangle
+2019-01-08 23:11:16,953:DEBUG:cursor x=35, y=30
+2019-01-08 23:11:17,116:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:17,118:DEBUG:changed tiles to be selected
+2019-01-08 23:11:17,118:DEBUG:called select rectangle
+2019-01-08 23:11:17,118:DEBUG:cursor x=35, y=31
+2019-01-08 23:11:17,333:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:17,335:DEBUG:changed tiles to be selected
+2019-01-08 23:11:17,335:DEBUG:called select rectangle
+2019-01-08 23:11:17,335:DEBUG:cursor x=35, y=32
+2019-01-08 23:11:17,544:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:17,546:DEBUG:changed tiles to be selected
+2019-01-08 23:11:17,546:DEBUG:called select rectangle
+2019-01-08 23:11:17,546:DEBUG:cursor x=35, y=33
+2019-01-08 23:11:17,937:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:17,939:DEBUG:changed tiles to be selected
+2019-01-08 23:11:17,939:DEBUG:called select rectangle
+2019-01-08 23:11:17,939:DEBUG:cursor x=36, y=33
+2019-01-08 23:11:18,432:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,434:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,434:DEBUG:called select rectangle
+2019-01-08 23:11:18,434:DEBUG:cursor x=37, y=33
+2019-01-08 23:11:18,469:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,471:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,471:DEBUG:called select rectangle
+2019-01-08 23:11:18,471:DEBUG:cursor x=38, y=33
+2019-01-08 23:11:18,493:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,495:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,495:DEBUG:called select rectangle
+2019-01-08 23:11:18,495:DEBUG:cursor x=39, y=33
+2019-01-08 23:11:18,518:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,520:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,520:DEBUG:called select rectangle
+2019-01-08 23:11:18,520:DEBUG:cursor x=40, y=33
+2019-01-08 23:11:18,554:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,556:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,556:DEBUG:called select rectangle
+2019-01-08 23:11:18,556:DEBUG:cursor x=41, y=33
+2019-01-08 23:11:18,579:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,581:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,581:DEBUG:called select rectangle
+2019-01-08 23:11:18,581:DEBUG:cursor x=42, y=33
+2019-01-08 23:11:18,617:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,619:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,619:DEBUG:called select rectangle
+2019-01-08 23:11:18,619:DEBUG:cursor x=43, y=33
+2019-01-08 23:11:18,642:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,644:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,644:DEBUG:called select rectangle
+2019-01-08 23:11:18,644:DEBUG:cursor x=44, y=33
+2019-01-08 23:11:18,679:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,680:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,681:DEBUG:called select rectangle
+2019-01-08 23:11:18,681:DEBUG:cursor x=45, y=33
+2019-01-08 23:11:18,703:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,705:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,705:DEBUG:called select rectangle
+2019-01-08 23:11:18,705:DEBUG:cursor x=46, y=33
+2019-01-08 23:11:18,740:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:18,742:DEBUG:changed tiles to be selected
+2019-01-08 23:11:18,742:DEBUG:called select rectangle
+2019-01-08 23:11:18,742:DEBUG:cursor x=47, y=33
+2019-01-08 23:11:19,168:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:19,169:DEBUG:changed tiles to be selected
+2019-01-08 23:11:19,169:DEBUG:called select rectangle
+2019-01-08 23:11:19,170:DEBUG:cursor x=48, y=33
+2019-01-08 23:11:19,367:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:19,369:DEBUG:changed tiles to be selected
+2019-01-08 23:11:19,369:DEBUG:called select rectangle
+2019-01-08 23:11:19,369:DEBUG:cursor x=49, y=33
+2019-01-08 23:11:19,618:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:19,620:DEBUG:changed tiles to be selected
+2019-01-08 23:11:19,620:DEBUG:called select rectangle
+2019-01-08 23:11:19,620:DEBUG:cursor x=49, y=32
+2019-01-08 23:11:20,119:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,121:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,121:DEBUG:called select rectangle
+2019-01-08 23:11:20,121:DEBUG:cursor x=49, y=31
+2019-01-08 23:11:20,156:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,158:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,158:DEBUG:called select rectangle
+2019-01-08 23:11:20,158:DEBUG:cursor x=49, y=30
+2019-01-08 23:11:20,181:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,183:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,183:DEBUG:called select rectangle
+2019-01-08 23:11:20,183:DEBUG:cursor x=49, y=29
+2019-01-08 23:11:20,206:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,208:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,208:DEBUG:called select rectangle
+2019-01-08 23:11:20,208:DEBUG:cursor x=49, y=28
+2019-01-08 23:11:20,242:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,244:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,244:DEBUG:called select rectangle
+2019-01-08 23:11:20,244:DEBUG:cursor x=49, y=27
+2019-01-08 23:11:20,267:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,269:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,269:DEBUG:called select rectangle
+2019-01-08 23:11:20,269:DEBUG:cursor x=49, y=26
+2019-01-08 23:11:20,304:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,306:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,306:DEBUG:called select rectangle
+2019-01-08 23:11:20,306:DEBUG:cursor x=49, y=25
+2019-01-08 23:11:20,329:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,331:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,331:DEBUG:called select rectangle
+2019-01-08 23:11:20,331:DEBUG:cursor x=49, y=24
+2019-01-08 23:11:20,367:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,368:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,369:DEBUG:called select rectangle
+2019-01-08 23:11:20,369:DEBUG:cursor x=49, y=23
+2019-01-08 23:11:20,392:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,394:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,394:DEBUG:called select rectangle
+2019-01-08 23:11:20,394:DEBUG:cursor x=49, y=22
+2019-01-08 23:11:20,428:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,430:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,430:DEBUG:called select rectangle
+2019-01-08 23:11:20,430:DEBUG:cursor x=49, y=21
+2019-01-08 23:11:20,453:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,455:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,455:DEBUG:called select rectangle
+2019-01-08 23:11:20,455:DEBUG:cursor x=49, y=20
+2019-01-08 23:11:20,489:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,491:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,491:DEBUG:called select rectangle
+2019-01-08 23:11:20,492:DEBUG:cursor x=49, y=19
+2019-01-08 23:11:20,514:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,517:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,517:DEBUG:called select rectangle
+2019-01-08 23:11:20,517:DEBUG:cursor x=49, y=18
+2019-01-08 23:11:20,540:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,542:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,542:DEBUG:called select rectangle
+2019-01-08 23:11:20,542:DEBUG:cursor x=49, y=17
+2019-01-08 23:11:20,576:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,578:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,578:DEBUG:called select rectangle
+2019-01-08 23:11:20,578:DEBUG:cursor x=49, y=16
+2019-01-08 23:11:20,601:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,603:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,603:DEBUG:called select rectangle
+2019-01-08 23:11:20,603:DEBUG:cursor x=49, y=15
+2019-01-08 23:11:20,637:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,639:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,639:DEBUG:called select rectangle
+2019-01-08 23:11:20,639:DEBUG:cursor x=49, y=14
+2019-01-08 23:11:20,662:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,664:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,664:DEBUG:called select rectangle
+2019-01-08 23:11:20,664:DEBUG:cursor x=49, y=13
+2019-01-08 23:11:20,697:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,700:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,700:DEBUG:called select rectangle
+2019-01-08 23:11:20,700:DEBUG:cursor x=49, y=12
+2019-01-08 23:11:20,722:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,724:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,724:DEBUG:called select rectangle
+2019-01-08 23:11:20,724:DEBUG:cursor x=49, y=11
+2019-01-08 23:11:20,757:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,759:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,760:DEBUG:called select rectangle
+2019-01-08 23:11:20,760:DEBUG:cursor x=49, y=10
+2019-01-08 23:11:20,782:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,784:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,784:DEBUG:called select rectangle
+2019-01-08 23:11:20,784:DEBUG:cursor x=49, y=9
+2019-01-08 23:11:20,820:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,821:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,822:DEBUG:called select rectangle
+2019-01-08 23:11:20,822:DEBUG:cursor x=49, y=8
+2019-01-08 23:11:20,845:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,847:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,847:DEBUG:called select rectangle
+2019-01-08 23:11:20,847:DEBUG:cursor x=49, y=7
+2019-01-08 23:11:20,882:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:20,884:DEBUG:changed tiles to be selected
+2019-01-08 23:11:20,884:DEBUG:called select rectangle
+2019-01-08 23:11:20,884:DEBUG:cursor x=48, y=7
+2019-01-08 23:11:21,366:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:21,368:DEBUG:changed tiles to be selected
+2019-01-08 23:11:21,368:DEBUG:called select rectangle
+2019-01-08 23:11:21,368:DEBUG:cursor x=47, y=7
+2019-01-08 23:11:21,402:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:21,404:DEBUG:changed tiles to be selected
+2019-01-08 23:11:21,404:DEBUG:called select rectangle
+2019-01-08 23:11:21,404:DEBUG:cursor x=46, y=7
+2019-01-08 23:11:21,427:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:21,429:DEBUG:changed tiles to be selected
+2019-01-08 23:11:21,429:DEBUG:called select rectangle
+2019-01-08 23:11:21,429:DEBUG:cursor x=45, y=7
+2019-01-08 23:11:21,452:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:21,454:DEBUG:changed tiles to be selected
+2019-01-08 23:11:21,454:DEBUG:called select rectangle
+2019-01-08 23:11:21,454:DEBUG:cursor x=44, y=7
+2019-01-08 23:11:21,491:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:21,493:DEBUG:changed tiles to be selected
+2019-01-08 23:11:21,493:DEBUG:called select rectangle
+2019-01-08 23:11:21,493:DEBUG:cursor x=43, y=7
+2019-01-08 23:11:21,709:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:11:22,199:DEBUG:selected an object in build mode
+2019-01-08 23:11:22,353:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,355:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,355:DEBUG:called select rectangle
+2019-01-08 23:11:22,355:DEBUG:cursor x=43, y=8
+2019-01-08 23:11:22,851:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,853:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,853:DEBUG:called select rectangle
+2019-01-08 23:11:22,853:DEBUG:cursor x=43, y=9
+2019-01-08 23:11:22,876:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,878:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,878:DEBUG:called select rectangle
+2019-01-08 23:11:22,878:DEBUG:cursor x=43, y=10
+2019-01-08 23:11:22,912:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,913:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,913:DEBUG:called select rectangle
+2019-01-08 23:11:22,914:DEBUG:cursor x=43, y=11
+2019-01-08 23:11:22,936:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,939:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,939:DEBUG:called select rectangle
+2019-01-08 23:11:22,939:DEBUG:cursor x=43, y=12
+2019-01-08 23:11:22,973:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,975:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,975:DEBUG:called select rectangle
+2019-01-08 23:11:22,975:DEBUG:cursor x=43, y=13
+2019-01-08 23:11:22,997:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:22,999:DEBUG:changed tiles to be selected
+2019-01-08 23:11:22,999:DEBUG:called select rectangle
+2019-01-08 23:11:22,999:DEBUG:cursor x=43, y=14
+2019-01-08 23:11:23,033:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,035:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,035:DEBUG:called select rectangle
+2019-01-08 23:11:23,035:DEBUG:cursor x=43, y=15
+2019-01-08 23:11:23,058:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,060:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,060:DEBUG:called select rectangle
+2019-01-08 23:11:23,060:DEBUG:cursor x=43, y=16
+2019-01-08 23:11:23,096:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,097:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,098:DEBUG:called select rectangle
+2019-01-08 23:11:23,098:DEBUG:cursor x=43, y=17
+2019-01-08 23:11:23,120:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,122:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,122:DEBUG:called select rectangle
+2019-01-08 23:11:23,122:DEBUG:cursor x=42, y=17
+2019-01-08 23:11:23,306:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,308:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,308:DEBUG:called select rectangle
+2019-01-08 23:11:23,308:DEBUG:cursor x=41, y=17
+2019-01-08 23:11:23,810:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,812:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,813:DEBUG:called select rectangle
+2019-01-08 23:11:23,813:DEBUG:cursor x=40, y=17
+2019-01-08 23:11:23,835:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,837:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,837:DEBUG:called select rectangle
+2019-01-08 23:11:23,837:DEBUG:cursor x=39, y=17
+2019-01-08 23:11:23,872:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,874:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,874:DEBUG:called select rectangle
+2019-01-08 23:11:23,874:DEBUG:cursor x=38, y=17
+2019-01-08 23:11:23,898:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,900:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,900:DEBUG:called select rectangle
+2019-01-08 23:11:23,900:DEBUG:cursor x=37, y=17
+2019-01-08 23:11:23,934:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,935:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,936:DEBUG:called select rectangle
+2019-01-08 23:11:23,936:DEBUG:cursor x=36, y=17
+2019-01-08 23:11:23,958:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,960:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,960:DEBUG:called select rectangle
+2019-01-08 23:11:23,960:DEBUG:cursor x=35, y=17
+2019-01-08 23:11:23,995:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:23,997:DEBUG:changed tiles to be selected
+2019-01-08 23:11:23,997:DEBUG:called select rectangle
+2019-01-08 23:11:23,997:DEBUG:cursor x=34, y=17
+2019-01-08 23:11:24,020:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,022:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,022:DEBUG:called select rectangle
+2019-01-08 23:11:24,022:DEBUG:cursor x=33, y=17
+2019-01-08 23:11:24,056:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,058:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,058:DEBUG:called select rectangle
+2019-01-08 23:11:24,058:DEBUG:cursor x=32, y=17
+2019-01-08 23:11:24,080:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,082:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,082:DEBUG:called select rectangle
+2019-01-08 23:11:24,082:DEBUG:cursor x=31, y=17
+2019-01-08 23:11:24,117:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,119:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,119:DEBUG:called select rectangle
+2019-01-08 23:11:24,119:DEBUG:cursor x=30, y=17
+2019-01-08 23:11:24,141:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,143:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,143:DEBUG:called select rectangle
+2019-01-08 23:11:24,143:DEBUG:cursor x=29, y=17
+2019-01-08 23:11:24,178:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,180:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,180:DEBUG:called select rectangle
+2019-01-08 23:11:24,180:DEBUG:cursor x=28, y=17
+2019-01-08 23:11:24,203:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,205:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,205:DEBUG:called select rectangle
+2019-01-08 23:11:24,205:DEBUG:cursor x=27, y=17
+2019-01-08 23:11:24,240:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:24,242:DEBUG:changed tiles to be selected
+2019-01-08 23:11:24,242:DEBUG:called select rectangle
+2019-01-08 23:11:24,242:DEBUG:cursor x=26, y=17
+2019-01-08 23:11:24,898:DEBUG:switched out of mode
+2019-01-08 23:11:27,014:DEBUG:changed to build mode
+2019-01-08 23:11:27,384:DEBUG:stopped selecting an object in build mode
+2019-01-08 23:11:53,589:DEBUG:Initialized starting game variables
+2019-01-08 23:11:53,590:DEBUG:Starting game loop
+2019-01-08 23:11:54,627:DEBUG:changed to build mode
+2019-01-08 23:11:55,933:DEBUG:selected an object in build mode
+2019-01-08 23:11:56,114:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,117:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,117:DEBUG:called select rectangle
+2019-01-08 23:11:56,117:DEBUG:cursor x=41, y=25
+2019-01-08 23:11:56,610:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,612:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,612:DEBUG:called select rectangle
+2019-01-08 23:11:56,612:DEBUG:cursor x=42, y=25
+2019-01-08 23:11:56,645:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,646:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,646:DEBUG:called select rectangle
+2019-01-08 23:11:56,646:DEBUG:cursor x=43, y=25
+2019-01-08 23:11:56,680:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,682:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,682:DEBUG:called select rectangle
+2019-01-08 23:11:56,682:DEBUG:cursor x=44, y=25
+2019-01-08 23:11:56,704:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,706:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,706:DEBUG:called select rectangle
+2019-01-08 23:11:56,706:DEBUG:cursor x=45, y=25
+2019-01-08 23:11:56,739:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,741:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,741:DEBUG:called select rectangle
+2019-01-08 23:11:56,741:DEBUG:cursor x=46, y=25
+2019-01-08 23:11:56,764:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,765:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,766:DEBUG:called select rectangle
+2019-01-08 23:11:56,766:DEBUG:cursor x=47, y=25
+2019-01-08 23:11:56,799:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,801:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,801:DEBUG:called select rectangle
+2019-01-08 23:11:56,801:DEBUG:cursor x=48, y=25
+2019-01-08 23:11:56,824:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,825:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,825:DEBUG:called select rectangle
+2019-01-08 23:11:56,825:DEBUG:cursor x=49, y=25
+2019-01-08 23:11:56,860:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,862:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,862:DEBUG:called select rectangle
+2019-01-08 23:11:56,862:DEBUG:cursor x=50, y=25
+2019-01-08 23:11:56,895:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,897:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,897:DEBUG:called select rectangle
+2019-01-08 23:11:56,897:DEBUG:cursor x=51, y=25
+2019-01-08 23:11:56,920:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:56,922:DEBUG:changed tiles to be selected
+2019-01-08 23:11:56,922:DEBUG:called select rectangle
+2019-01-08 23:11:56,922:DEBUG:cursor x=51, y=24
+2019-01-08 23:11:57,415:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,417:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,417:DEBUG:called select rectangle
+2019-01-08 23:11:57,417:DEBUG:cursor x=51, y=23
+2019-01-08 23:11:57,440:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,442:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,442:DEBUG:called select rectangle
+2019-01-08 23:11:57,442:DEBUG:cursor x=51, y=22
+2019-01-08 23:11:57,475:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,477:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,477:DEBUG:called select rectangle
+2019-01-08 23:11:57,477:DEBUG:cursor x=51, y=21
+2019-01-08 23:11:57,500:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,502:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,502:DEBUG:called select rectangle
+2019-01-08 23:11:57,502:DEBUG:cursor x=51, y=20
+2019-01-08 23:11:57,535:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,537:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,538:DEBUG:called select rectangle
+2019-01-08 23:11:57,538:DEBUG:cursor x=51, y=19
+2019-01-08 23:11:57,560:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,562:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,562:DEBUG:called select rectangle
+2019-01-08 23:11:57,562:DEBUG:cursor x=51, y=18
+2019-01-08 23:11:57,596:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,598:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,598:DEBUG:called select rectangle
+2019-01-08 23:11:57,598:DEBUG:cursor x=51, y=17
+2019-01-08 23:11:57,631:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,634:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,634:DEBUG:called select rectangle
+2019-01-08 23:11:57,634:DEBUG:cursor x=51, y=16
+2019-01-08 23:11:57,656:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,658:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,658:DEBUG:called select rectangle
+2019-01-08 23:11:57,658:DEBUG:cursor x=51, y=15
+2019-01-08 23:11:57,691:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,693:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,693:DEBUG:called select rectangle
+2019-01-08 23:11:57,693:DEBUG:cursor x=51, y=14
+2019-01-08 23:11:57,716:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,718:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,718:DEBUG:called select rectangle
+2019-01-08 23:11:57,718:DEBUG:cursor x=51, y=13
+2019-01-08 23:11:57,751:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,754:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,754:DEBUG:called select rectangle
+2019-01-08 23:11:57,754:DEBUG:cursor x=51, y=12
+2019-01-08 23:11:57,776:DEBUG:has_selected = True, active_mode = 1
+2019-01-08 23:11:57,779:DEBUG:changed tiles to be selected
+2019-01-08 23:11:57,779:DEBUG:called select rectangle
+2019-01-08 23:11:57,779:DEBUG:cursor x=51, y=11
+2019-01-08 23:11:58,949:DEBUG:switched out of mode

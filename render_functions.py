@@ -1,29 +1,36 @@
 import libtcodpy as libtcod
 
 
-def render_all(con, cursor, entities, camera, game_map, screen_width, screen_height, colors, logger):
+def render_all(con, cursor, entities, camera, game_map, screen_width, screen_height, colors, mode, logger):
     # Draw all tiles and entities in game map
     for y in range(camera.height):
         for x in range(camera.width):
             cam_x = camera.x + x
             cam_y = camera.y + y
             try:
-                wall = game_map.tiles[cam_x][cam_y].block_sight
+                tile = game_map.tiles[cam_x][cam_y]
                 entity = game_map.objects[cam_x][cam_y]
             except IndexError:
                 logger.error('cam_x = {}, cam_y = {}'.format(cam_x, cam_y))
                 logger.error('Rendering out of map range')
                 raise IndexError('Rendered outside of map range')
             
-            if wall:
-                libtcod.console_set_char_background(con, x, y, colors.get('dark_wall'), libtcod.BKGND_SET)
+            if tile.block_sight:
+                if tile.selected:
+                    libtcod.console_set_char_background(con, x, y, colors.get('good_selected_wall'), libtcod.BKGND_SET)
+                else:
+                    libtcod.console_set_char_background(con, x, y, colors.get('dark_wall'), libtcod.BKGND_SET)
             else:
-                libtcod.console_set_char_background(con, x, y, colors.get('dark_ground'), libtcod.BKGND_SET)
+                if tile.selected:
+                    libtcod.console_set_char_background(con, x, y, colors.get('good_selected_floor'), libtcod.BKGND_SET)
+                else:
+                    libtcod.console_set_char_background(con, x, y, colors.get('dark_ground'), libtcod.BKGND_SET)
             #Draw all entities in camera range    
             if not entity.null_entity:
                 draw_entity(con, entity, x, y)
 
-    draw_entity(con, cursor.entity, cursor.entity.cam_x, cursor.entity.cam_y)
+    if mode != 0:
+        draw_entity(con, cursor.entity, cursor.entity.cam_x, cursor.entity.cam_y)
 
     libtcod.console_blit(con, 0, 0, camera.width, camera.height, 0, 0, 0)
 
